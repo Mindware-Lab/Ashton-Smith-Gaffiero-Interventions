@@ -1,163 +1,89 @@
-# BPS Small Research Grant Proposal v11
+# BPS Small Research Grant Proposal
 
-## **Training Relational Attentional Control Under Exam-Relevant Interference: Extending Cognitive Capacity Tasks for Mathematics Anxiety**
+## Training Relative-Frame Attentional Control Under Evaluative Pressure: A Feasibility Study for Mathematics Anxiety
 
-**Target Funder:** BPS Small Research Grants Scheme (up to £6,000)
-**Deadline:** 26 July 2026
-**Project Start:** By 31 December 2026
-**Duration:** 12 months
+**Applicants:**
 
----
+**Dr Daniel Gaffiero** — Lead Applicant / Principal Investigator
 
-## 1. Summary of Current Research (~100 words)
+**Dr Mark Ashton Smith** — Co-Applicant
 
-Mathematics anxiety (MA) affects up to 20% of UK students, disrupting working memory and attentional control during mathematical tasks (Ashcraft & Kirk, 2001; Carey et al., 2017). Recent work by Gaffiero & Suárez-Pellicioni (2026) demonstrates that individuals with high MA show content-specific attentional biases toward mathematical stimuli using dot-probe paradigms, suggesting that anxiety-related attentional capture may be a maintaining factor. However, existing attention-bias modification (ABM) approaches show inconsistent effects (Cristea et al., 2015). We propose a mechanistically-targeted training approach combining **relative-frame cognitive control capacity (CCC) training** with **emotional working memory (WM) tasks** to strengthen the specific control operations that MA disrupts.
+**Host institution:** King’s College London
 
----
+**Target funder:** BPS Small Research Grants Scheme
 
-## 2. Proposed Scientific Content & Purpose (~150 words)
+**Requested funding:** £6,000
 
-### The Problem
-MA is not simply "fear of maths." It disrupts **goal-directed attentional control** and **working memory stability** under evaluative threat (Eysenck et al., 2007). Students with high MA show:
-- Impaired inhibition efficiency (De Agostini, 2020)
-- Reduced verbal and visuospatial working memory spans (Mammarella et al., 2015)
-- Attentional bias toward mathematical threat cues (Gaffiero & Suárez-Pellicioni, 2026)
-- Poorer performance under time pressure (Faust et al., 1996)
+**Project duration:** 12 months
 
-Traditional ABM trains attention *away* from threat, with mixed results. We take a different approach: training the **underlying control architecture** that protects task-relevant representations from threat interference.
+## Applicant roles
 
-### The Innovation
-We extend classic Majority Function Task – Masked (MFT-M; Wu et al., 2016) from **absolute** feature extraction ("most arrows point left") to **relative-frame** relation computation ("arrow direction relative to centre → IN/OUT"). This changes the computational object from dominant feature detection to **relational binding + context-dependent rule use**, placing greater demand on hippocampal–prefrontal–parietal systems implicated in relational coding and anxiety-relevant control (Kumaran & Maguire, 2005; Eysenck et al., 2007).
+Dr Daniel Gaffiero will lead the project, host the study through King’s College London, oversee ethics, recruitment, student researcher involvement, data collection and statistical analysis, and contribute expertise in mathematics anxiety, cognitive bias methodology and psychological measurement.
 
-We pair this with **emotional relational/binding WM tasks** where exam-relevant distractors (e.g., "deadline," "fail," "marked") compete for attention while participants maintain task-relevant relations. This tests whether students can **protect the task structure** when worry cues are present.
-
-### Core Hypothesis
-> Relative-frame CCC + emotional WM training will improve (a) attentional control capacity, (b) resistance to exam-threat interference, and (c) exam-like mathematical performance under pressure, compared to active control.
+Dr Mark Ashton Smith, University of Essex Online, will contribute theory and task design, digital intervention architecture and cognitive-training methodology. He will support development of the relative-frame CCC training task, the active-control condition, the transfer-measure battery and the wider pathway from this pilot study to a larger externally funded trial.
 
 ---
 
-## 3. Research Trajectory & Future Larger Bid (~80 words)
+## Proposal
 
-This BPS grant provides **pilot data and paradigm validation** for a subsequent larger bid (e.g., ESRC Standard Grant, Wellcome Trust). The immediate outputs will be:
-- Validated multi-layer training protocol with effect-size estimates
-- Behavioural signatures of threat-interference cost reduction
-- Preliminary evidence of transfer to exam-like performance
+Mathematics anxiety (MA) affects a substantial minority of UK students and is associated with poorer mathematical performance, especially under evaluative or time-pressured conditions (Ashcraft & Kirk, 2001; Carey et al., 2019). It is commonly explained through its impact on working memory and attentional control. Recent work by Gaffiero, Suárez-Pellicioni and colleagues challenges the assumption that MA is driven by selective attentional capture by mathematics-related threat. Across dot-probe studies, they found no evidence of content-specific attentional bias to mathematics, rumination-related or generally negative stimuli. Instead, higher MA was associated with slower responses across conditions, suggesting a more general reduction in processing efficiency. This is consistent with Attentional Control Theory, which proposes that anxiety impairs the efficiency of goal-directed control rather than simply redirecting attention towards specific threat cues.
 
-The next stage will add **EEG/physiological markers** (frontal theta, pupil dilation) and conduct a fully powered RCT with academic outcome measures in secondary schools. This small grant is essential to demonstrate feasibility and generate the preliminary data required for competitive larger bids.
+This project tests a new behavioural training paradigm designed to target this generalised control inefficiency. We adapt the Majority Function Task – Masked (MFT-M), a published measure of cognitive-control capacity, from absolute feature extraction to relative-frame relational control. In the classic MFT-M, participants judge the majority absolute direction of briefly presented, masked arrow arrays. Each trial uses five arrows, with majority ratios such as 5:0, 4:1 and 3:2. In our relative-frame version, the same five-arrow masked majority structure is retained, but arrow direction must be interpreted relative to position around a centre. For example, an arrow on the left pointing left is OUT, whereas an arrow on the left pointing right is IN. Participants therefore classify the majority relation across the display, rather than the majority absolute direction.
 
----
+The theoretical rationale is that relative-frame CCC places greater demand on context-dependent rule use, spatial-relational binding and controlled response selection than classic absolute-direction CCC. This is relevant to MA because evaluative pressure may impair the capacity to maintain the currently relevant task frame when responses are time-limited or when surface cues are misleading. At a mechanistic level, the task is also compatible with hippocampal–prefrontal accounts of relational and contextual control: the hippocampus is implicated in spatial-relational processing, while prefrontal systems support goal-directed rule maintenance and interference control. We treat this as a behavioural feasibility study, not as a direct neural test; later work could add eye-tracking, EEG or neuroimaging-sensitive designs.
 
-## 4. Intended Activities & Methods (~200 words)
+We will conduct a randomised feasibility and mechanism study with university students reporting moderate-to-high MA. Participants will be allocated to one of three arms: (1) active control training, matched for visual response practice and engagement; (2) classic absolute CCC followed by relative-frame CCC; or (3) relative-frame CCC followed by classic absolute CCC. This counterbalanced sequential design allows us to estimate directional transfer. After the first training phase, before participants train the second task, we will test whether absolute training transfers to relative-frame CCC and whether relative-frame training transfers to absolute CCC. This is crucial because improvement on a trained task alone could reflect ordinary practice. The critical mechanism question is whether relative-frame training produces broader transfer to absolute/mixed performance than absolute training produces to relative-frame performance.
 
-### Design
-Three-arm randomised controlled trial:
-- **Arm 1:** Active control (neutral visual-response training)
-- **Arm 2:** CCC-only (relative-frame attention control under time pressure)
-- **Arm 3:** CCC + emotional relational/binding WM (attention control + threat-interference WM)
+The intervention will consist of ten brief online training sessions over a two-week period. In the two active training arms, participants will complete five sessions in the first task family, a mid-test transfer probe, then five sessions in the second task family. The active-control arm will complete a matched visual-response protocol across the same time period. All groups will complete pre-test, mid-test, post-test and brief delayed follow-up assessments.
 
-### Participants
-N = 90–120 university students (30–40 per group), screened for moderate-high MA using the modified Abbreviated Mathematics Anxiety Scale (mAMAS; Carey et al., 2017). Power analysis based on medium effect sizes (d = 0.5) for interference cost reduction, α = .05, power = .80.
+The primary feasibility outcomes will be recruitment rate, eligibility rate, completion rate, missing data, task timing quality, acceptability and adherence. The primary mechanism outcomes will be relative-frame CCC capacity, relative-frame cost, directional transfer efficiency and mixed absolute/relative wrapper recovery. Relative-frame cost will be defined as the difference or ratio between absolute and relative-frame performance. Directional transfer will be estimated by comparing untrained-task gain after the first training phase: relative-to-absolute transfer in the relative-first group versus absolute-to-relative transfer in the absolute-first group. This directly tests whether relative-frame training produces a broader relational-control benefit beyond generic practice with masked arrow arrays.
 
-### Training Protocol (4 weeks, ~12 sessions)
-**Layer 1 – CCC Training:** Relative-frame MFT-M. Arrows appear in left/right visual fields; participants classify as IN (pointing toward centre) or OUT (pointing away) under time pressure. Adaptive difficulty based on capacity estimates (~3–4 bits/sec; Wu et al., 2016).
+Secondary outcomes will include general response speed, an independent attention-control task such as Flanker or ANT, an exam-threat interference probe, and a timed arithmetic or statistics task under mild evaluative pressure. Mathematics anxiety will be measured using the Mathematics Anxiety Scale UK or an appropriate short form, with state anxiety and perceived control ratings collected around the exam-like task. Actual academic outcomes may be explored if available, but will not be the primary endpoint in this seed study.
 
-**Layer 2 – Emotional Relational WM (Arm 3 only):** 2-back relational task. Participants monitor sequences of IN/OUT relations with embedded exam-threat distractors (e.g., "deadline," "fail"). Primary metric: threat interference cost = performance_neutral – performance_threat.
+The project is designed to support a larger research trajectory focused on developing a scalable digital intervention for mathematics anxiety that combines attention-control training with emotional working-memory training. If relative-frame CCC proves feasible, reliable and mechanistically promising, the next grant application will extend the intervention into relational working-memory and binding layers. This follow-up study will add exam-relevant emotional distractors while participants maintain IN/OUT relations, relation sequences, or relation-colour bindings, testing whether training helps protect the task model from evaluative-threat interference. In practical terms, the next-stage intervention will ask whether students can keep the relevant rule active when worry-relevant material competes for attention and working memory.
 
-**Layer 3 – Emotional Binding WM (Arm 3 only, later sessions):** Bind relation + colour/context. Test whether threat cues increase same-relation/wrong-colour errors (task-model corruption).
+A later fully powered trial will evaluate the full attention–emotional working-memory stack against an active control condition in university and, subsequently, secondary-school examination contexts. The core translational aim will be to validate a hardware-free digital intervention that can be delivered online at scale as a bespoke educational-support app. Mechanistic validation may include webcam-based or laboratory eye-tracking in a smaller subsample to examine attentional deployment during evaluative-threat probes. HRV may also be explored in a separate readiness or state-monitoring study, but would not be required for the main intervention pathway.
 
-### Assessment Battery (Pre/Post/Delayed)
-| Construct | Measure |
-|-----------|---------|
-| Attentional control capacity | Relative-frame CCC task (bits/sec) |
-| Threat interference cost | Emotional relational n-back (neutral vs. threat RT/accuracy difference) |
-| Maths anxiety | mAMAS |
-| Exam-like performance | Timed mental arithmetic under mild evaluative pressure (mock exam scenario) |
-| Transfer | Flanker/ANT task; standardised maths fluency |
 
-### Key Predictions
-1. CCC-only improves signal extraction capacity
-2. CCC + emotional WM improves signal extraction *plus* resistance to exam-threat interference
-3. Both training arms show reduced MA vs. control; CCC + emotional WM shows greatest transfer to exam-like performance
+
+This BPS grant will provide the first empirical test of a scalable, theory-led digital training paradigm for mathematics anxiety. Led by Dr Daniel Gaffiero, with Dr Mark Ashton Smith as co-applicant, the project brings together expertise in mathematics anxiety, cognitive-bias measurement, cognitive-control theory and digital cognitive-training design. It is not designed to prove clinical or educational efficacy. It is designed to validate the core task, estimate transfer-sensitive effect sizes, involve student researchers in data collection and analysis, and provide a rigorous foundation for a larger externally funded trial.
 
 ---
 
-## 5. Benefits to BPS Member (~50 words)
+## Costing
 
-This project directly advances the BPS strategic goals of **improving research quality** and **societal impact**. It addresses a high-prevalence educational issue (MA affects ~20% of students) through rigorous experimental methods. The project will involve **undergraduate/MSc student RAs** in data collection and analysis, supporting ECR development. Outputs will include open-access protocols and a pathway to scalable digital intervention.
+The applicants will contribute substantial in-kind time and existing infrastructure. Dr Gaffiero will lead ethics, recruitment, participant communication, supervision and analysis through the host institution. Dr Ashton Smith will provide the beta digital task platform, task adaptation and software-development support in kind. The requested £6,000 will therefore be concentrated on direct empirical costs: participant payments to support completion of a repeated-session training protocol; minimal software hosting, task deployment and data-management costs; materials, open-protocol preparation and dissemination. We will recruit approximately 90 participants to allow for 20–25% attrition, targeting around 68–72 complete datasets across three arms. This sample is not intended to provide definitive efficacy testing, but to estimate feasibility, adherence, task reliability, data quality and preliminary mechanism-sensitive effect sizes for a future powered trial.
 
----
+Suggested allocation:
 
-## 6. Costings (~50 words)
-
-| Item | Cost |
-|------|------|
-| Research Assistant (200 hrs @ £12/hr) | £2,400 |
-| Participant payments (100 × £15) | £1,500 |
-| Software/licenses (PsychoPy/Qualtrics) | £500 |
-| Contingency & materials | £1,600 |
-| **Total** | **£6,000** |
+| Item                                                   |       Cost |
+| ------------------------------------------------------ | ---------: |
+| Participant payments                                   |     £4,200 |
+| Software hosting, task deployment and data management  |       £700 |
+| Materials, open protocol preparation and dissemination |       £600 |
+| Contingency                                            |       £500 |
+| **Total**                                              | **£6,000** |
 
 ---
 
-## 7. Key References (selected)
+## Selected references
 
-- Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, math anxiety, and performance. *JEP: General*, 130(2), 224–237.
-- Carey, E., et al. (2017). Understanding mathematics anxiety. *Nuffield Foundation Report*.
-- De Agostini, R. (2020). *The role of working memory and inhibition efficiency in mathematics anxiety* [PhD thesis, University of York].
-- Eysenck, M. W., et al. (2007). Attentional control theory. *Emotion*, 7(2), 336–353.
-- **Gaffiero, D., & Suárez-Pellicioni, M. (2026).** Investigating the content-specificity and time course of attentional biases in mathematics anxiety: A dot-probe approach. *Cogent Psychology*, 13(1). [Note: Gaffiero's 2026 paper demonstrates that high-MA individuals show attentional bias toward mathematical stimuli, providing empirical support for the interference-wrapper design]
-- Mammarella, I. C., et al. (2015). Math anxiety and developmental dyscalculia: A study on working memory processes. *JCEN*, 37(8), 878–887.
-- Wu, R., et al. (2016). The capacity of cognitive control estimated from a perceptual decision task. *Scientific Reports*, 6, 34025.
+Ashcraft, M. H., & Kirk, E. P. (2001). The relationships among working memory, maths anxiety, and performance. *Journal of Experimental Psychology: General, 130*, 224–237.
 
----
+Carey, E., Devine, A., Hill, F., Dowker, A., McLellan, R., & Szűcs, D. (2019). *Understanding mathematics anxiety: Investigating the experiences of UK primary and secondary school students*. Centre for Neuroscience and Education, University of Cambridge. https://doi.org/10.17863/CAM.37744
 
-## 8. Contextualising Gaffiero's Contribution
+Donner, Y., & Hardy, J. L. (2015). Piecewise power laws in individual learning curves. *Psychonomic Bulletin & Review, 22*, 1308–1319. https://doi.org/10.3758/s13423-015-0811-x
 
-Daniel Gaffiero's recent work is central to this proposal's rationale:
+Eysenck, M. W., Derakshan, N., Santos, R., & Calvo, M. G. (2007). Attentional Control Theory. *Emotion, 7*, 336–353.
 
-1. **Attentional Bias in MA (2026):** Gaffiero & Suárez-Pellicioni's dot-probe study demonstrates that individuals with high MA show **content-specific attentional biases** toward mathematical stimuli. This is not just general anxiety—it is math-specific attentional capture. This directly supports our "interference wrapper" design: if MA involves biased attention toward math-related threat, then training must target **protection of task structure** from that specific interference, not just generic attention redirection.
+Gaffiero, D., Suárez-Pellicioni, M., & Hunt, T. E. (2026). Investigating the content-specificity and time course of attentional biases in mathematics anxiety: A dot-probe approach. *Cogent Psychology, 13*.
 
-2. **Methodological Expertise:** Gaffiero's background in cognitive bias research (dot-probe, eye-tracking, interpretation bias) and his PhD work on attentional biases in pain populations provides the methodological foundation for designing and validating the emotional distractor materials.
+Hunt, T. E., Clark-Carter, D., & Sheffield, D. (2011). The development and part validation of a UK scale for mathematics anxiety. *Journal of Psychoeducational Assessment, 29*, 455–466.
 
-3. **Student Development:** Gaffiero has a strong track record of student-supported publications (6 papers in 2024–2025 with student co-authors), aligning with BPS preference for student/ECR involvement.
+Kumaran, D., & Maguire, E. A. (2005). The human hippocampus: Cognitive maps or relational memory? *Journal of Neuroscience, 25*, 7254–7259.
 
-4. **Theoretical Bridge:** Gaffiero's work connects the general anxiety attentional bias literature (Bar-Haim et al., 2007) to the specific case of MA, providing the theoretical justification for why a control-focused intervention may succeed where generic ABM has failed.
+Melby-Lervåg, M., Redick, T. S., & Hulme, C. (2016). Working memory training does not improve performance on measures of intelligence or other measures of far transfer: Evidence from a meta-analytic review. *Perspectives on Psychological Science, 11*, 512–534.
 
----
+Wu, R., Dufford, A. J., Mackie, M.-A., Egan, L. J., & Fan, J. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *Scientific Reports, 6*, 34025.
 
-## 9. Notes for Daniel
-
-**Daniel—this sketch is designed to be a conversation starter.** The key questions I'd want your input on:
-
-1. **The emotional word list:** You have experience with stimulus validation (interpretation bias sets in pain; Gaffiero et al., 2022). Would you be comfortable leading the validation of exam-threat words for our population?
-
-2. **The dot-probe connection:** Your 2026 paper shows attentional bias *toward* math stimuli. Our training targets the *control* side—can we discuss whether you see this as complementary or competing with ABM approaches?
-
-3. **Population:** Your work spans university students and adolescents. For this pilot, we're proposing university students (easier recruitment, tighter control). Does this align with your interests?
-
-4. **Student involvement:** BPS strongly prefers student/ECR involvement. Would you want to supervise an MSc student on this, or should we recruit an RA?
-
-5. **The "maths anxiety" vs "exam anxiety" framing:** Your work is explicitly MA; our proposal leans toward exam-anxiety-relevant control. Is the bridge too speculative, or do you see MA and exam anxiety as sufficiently overlapping for this pilot?
-
----
-
-## 10. Risk Mitigation
-
-| Risk | Mitigation |
-|------|------------|
-| Null effect of training | Include mechanistic intermediate markers (interference cost, capacity estimates) that are more likely to show change than global anxiety scores |
-| Recruitment difficulties | University student population; offer course credit + payment; Gaffiero's existing lab infrastructure at Derby |
-| Emotional distractor validity | Pilot word list with target population before main study; use Gaffiero's stimulus validation expertise |
-| Timeline pressure | Single study design; 12-month window; 50% BPS payment on award, remainder on progress reports |
-
----
-
-**This is a draft for discussion. Please edit, challenge, or expand as you see fit. The core argument is: Gaffiero's attentional bias work shows *what* goes wrong in MA (attentional capture by math threat); our training targets *how* to fix it (strengthening the control operations that protect task structure from that capture).**
-
----
-
-Would you like me to:
-1. **Expand any section** (e.g., more detail on the CCC task parameters, the WM task design, or the statistical analysis plan)?
-2. **Tighten the word count** to fit the 4,000-character BPS limit?
-3. **Add more on Gaffiero's specific publications** if you know of others I didn't find?
-4. **Draft the "trajectory to larger bid" section** with specific target funders (ESRC, Wellcome, etc.)?
+Zhang, H., Zhang, X., Wang, Y., & Tang, C. (2024). Attention control training and transfer effects on cognitive tasks. *Journal details to be confirmed from final citation record*.
