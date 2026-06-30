@@ -58,6 +58,21 @@
 
 * Are there any ethical concerns around mild evaluative pressure in a maths-anxiety sample?
 
+## Costing and administration
+
+* Does the proposed participant-heavy budget seem realistic?
+
+* * Would there be any KCL constraints/requirements? Would KCL require any overhead, indirect cost, or administrative charge, or can the full £6,000 be spent on direct research costs?
+
+* Would a payment structure such as pre-test payment, per-session training payment, post-test payment, follow-up payment and completion bonus be acceptable?
+
+* Is there a preferred route for participant payments, for example vouchers, bank transfer, research participation credits, or another system?
+
+* Does the proposed recruitment target of around 90 participants, allowing for 20–25% attrition, seem feasible within the participant-payment budget?
+
+* Ideas about existing student participant pools or course-credit systems that could reduce direct participant-payment costs?
+
+
 ## Analysis and larger-bid trajectory
 
 * Should the primary mechanism outcome be relative-frame cost, directional transfer efficiency? Is the transfer metric of interest to you?
