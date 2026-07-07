@@ -1,5 +1,5 @@
 
-# Clinical-adjacent evidence map for the IQM stack
+# Clinical-adjacent evidence map 
 
 Current HRP Lab Stack Key:
 AC = Attention Control
