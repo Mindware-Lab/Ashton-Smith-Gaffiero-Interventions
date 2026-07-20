@@ -1,12 +1,13 @@
-# Draft concept proposal for Dr Daniel Gaffiero
+# Draft proposal 
+*Confidential*
 
 ## Working title
 
 **Cognitive-Affective Intervention Intelligence for Health**
 
-### Optimising digital support pathways for exam anxiety, persistent pain and adult ADHD through service intelligence, mechanism-led intervention engineering and functional-transfer testing
+### Optimising digital support pathways for exam anxiety, chronic pain and adult ADHD through service intelligence, mechanism-led intervention engineering and functional-transfer testing
 
-## Executive proposition
+## Proposition
 
 The proposed programme would develop and test a reusable enterprise capability for answering four linked questions:
 
@@ -20,7 +21,7 @@ Does that change transfer to meaningful functioning?
 Rather than beginning with a pre-selected app and asking whether it works, the programme would:
 
 ```text
-map the service pathway
+→ map the service pathway
 → locate unmet need and resource bottlenecks
 → prioritise intervention opportunities
 → engineer mechanism-targeted protocols
@@ -29,17 +30,15 @@ map the service pathway
 → evaluate implementation and system value
 ```
 
-Three linked demonstrators would be used:
+Three linked  applications would be used:
 
 1. **Exam and mathematics anxiety**, delivered through university student-support and wellbeing pathways.
-2. **Persistent or chronic pain**, delivered through NHS and private pain-management pathways.
+2. **chronic or chronic pain**, delivered through NHS and private pain-management pathways.
 3. **Adult ADHD support**, initially focused on provision mapping, intervention prioritisation and prototype co-design across NHS neurodevelopmental pathways, private providers, occupational health and university services.
 
-The first two demonstrators provide the closest fit with Dr Gaffiero’s existing research programme in threat-sensitive cognition and functioning. Adult ADHD adds a complementary systems test involving neurodevelopmental provision shortages, executive-function support and stepped allocation of scarce services.
+The first two  applications provide the closest fit with Dr Gaffiero’s existing research programme in threat-sensitive cognition and functioning. Adult ADHD adds a complementary systems test involving neurodevelopmental provision shortages, executive-function support and stepped allocation of scarce services.
 
-These areas form a credible triangulation around Dr Daniel Gaffiero’s research. He is a Lecturer in Health Psychology at King’s College London, and his research programme focuses on psychological processes underlying health behaviour and health-related decision-making, especially in chronic illness and public-health contexts. ([King's College London][1])
-
-His work provides direct scientific anchors for both demonstrators:
+Dan's work provides direct scientific anchors for:
 
 * attentional biases in mathematics anxiety, including negative internal dialogue and rumination;
 * interpretation and memory biases in chronic pain;
@@ -48,11 +47,11 @@ His work provides direct scientific anchors for both demonstrators:
 
 Adult ADHD would extend the resulting platform beyond the original threat-sensitive domains and test whether the same enterprise methodology can address a different problem architecture: variable attention, executive-function support and prolonged shortages in specialist provision. ([PubMed][2])
 
-The broader HRP Lab capability model supplies the programme architecture: pathway intelligence, intervention prioritisation, transfer-protocol engineering, psychometrics, digital adoption, validation and publication, governed by ethics, assurance and IP stewardship. 
+The broader HRP Lab capability model (see below) provides a programme architecture: pathway intelligence, intervention prioritisation, transfer-protocol engineering, psychometrics, digital adoption, validation and publication, governed by ethics, assurance and IP. 
 
 ---
 
-# 1. Strategic triangulation
+# 1. Triangulation
 
 The proposal joins three assets that are stronger together than separately.
 
@@ -62,22 +61,11 @@ The proposal joins three assets that are stronger together than separately.
 | **IQ Mindware/HRP Lab methodology**        | Transfer-protocol engineering, computational task design, adaptive cognitive-affective interventions, psychometric development and functional-transfer testing |
 | **Health and education service platforms** | Real pathways through which unmet need can be mapped, interventions delivered and implementation or resource outcomes evaluated                                |
 
-The unifying scientific hypothesis is:
+A unifying hypothesis is:
 
 > Threat-sensitive attention, interpretation and decision policies can become functionally maladaptive across different health-relevant contexts, but carefully engineered interventions may alter these policies and support more adaptive functioning—provided that change survives new tasks, new contexts and delay.
 
 The programme would not assume that exam anxiety, chronic pain and adult ADHD share the same condition architecture. They would be treated as **three test cases for a common intervention-intelligence infrastructure**, with distinct mechanisms, populations, service pathways, clinical boundaries and outcome measures.
-
-```text
-Exam anxiety
-= performance disrupted by evaluative threat
-
-Persistent pain
-= functioning disrupted by symptom interpretation and avoidance
-
-Adult ADHD
-= functioning disrupted by variable attention and executive control
-```
 
 The common programme question is:
 
@@ -94,9 +82,9 @@ The common programme question is:
    Where are unmet needs, bottlenecks, inequalities and resource constraints?
 
 2. Intervention discovery and prioritisation
-   Which opportunities offer the greatest likely patient, student and system value?
+   Which interventions offer the greatest likely patient, student and system value?
 
-3. Transfer-protocol engineering
+3. Transfer-protocol engineering 
    Which cognitive-affective mechanisms can be modified,
    and how far does the change generalise?
 
@@ -119,7 +107,7 @@ ethics
 + clinical safety
 + equity
 + human decision authority
-+ IP stewardship
++ IP  
 ```
 
 ---
@@ -132,41 +120,41 @@ To develop and prospectively evaluate a reusable system for identifying, enginee
 
 ### Specific aims
 
-1. Map the service and support pathways for exam anxiety, persistent pain and adult ADHD.
+1. Map the service and support pathways for exam anxiety, chronic pain and adult ADHD.
 2. Identify points where low-intensity digital support could add value without displacing necessary care.
 3. Prioritise candidate mechanisms and intervention opportunities using evidence, stakeholder input, equity and health-economic criteria.
 4. Develop adaptive cognitive-affective and executive-support protocols targeting attention, interpretation, evidence accumulation, task initiation, prospective memory and functional action.
 5. Establish whether protocol gains survive wrapper change, independent-task testing and delay.
 6. Test whether the strongest protocols improve meaningful functioning.
-7. Build an accessible user app, website and practitioner control surface capable of supporting the three demonstrator pathways.
+7. Build an accessible user app, website and practitioner control surface capable of supporting the three  application pathways.
 8. establish evidence, governance and IP processes suitable for later NHS, university, private-health and commercial adoption.
 
 ---
 
 
-## Revised three-demonstrator model
+## Applicatoins
 
-| Demonstrator | Main scientific emphasis | Main pathway problem | Candidate platform |
+| Application | Main scientific emphasis | Main pathway problem | Candidate platform |
 | --- | --- | --- | --- |
 | **Exam and mathematics anxiety** | Threat capture, internal dialogue, interpretation, avoidance and performance under pressure | Students needing accessible support before difficulties become severe | University wellbeing and learning-support systems |
-| **Persistent pain** | Interpretation bias, attention, avoidance, activity prediction and self-management | Fragmented access to multidisciplinary pain support | NHS/private pain-management pathways |
+| **chronic pain** | Interpretation bias, attention, avoidance, activity prediction and self-management | Fragmented access to multidisciplinary pain support | NHS/private pain-management pathways |
 | **Adult ADHD support** | Attention variability, task initiation, working memory, prospective memory, context switching and emotional interference | Long waits, inconsistent non-drug provision and limited specialist capacity | NHS neurodevelopmental pathways, private providers and university services |
 
 # 4. Work-package structure
 
 | Work package                                               | Capability implemented                                       | Main research questions                                                                                         | Activities                                                                                                                                                           | Principal outputs                                                                                                      |
 | ---------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| **WP1. Pathway and system intelligence**                   | Service-pathway, system and risk intelligence                | Where do people become unsupported, delayed or functionally impaired? Where are provider resources constrained? | Pathway mapping; document and administrative-data analysis; stakeholder interviews; process mapping; inequality analysis; service-capacity modelling                 | Exam-anxiety support map; persistent-pain pathway map; adult-ADHD provision and waiting-pathway map; bottleneck and inequality analysis; candidate deployment points |
+| **WP1. Pathway and system intelligence**                   | Service-pathway, system and risk intelligence                | Where do people become unsupported, delayed or functionally impaired? Where are provider resources constrained? | Pathway mapping; document and administrative-data analysis; stakeholder interviews; process mapping; inequality analysis; service-capacity modelling                 | Exam-anxiety support map; chronic-pain pathway map; adult-ADHD provision and waiting-pathway map; bottleneck and inequality analysis; candidate deployment points |
 | **WP2. Intervention opportunity portfolio**                | Intervention discovery and prioritisation                    | Which intervention opportunities have the greatest expected value?                                              | Evidence synthesis; mechanism mapping; stakeholder workshops; decision analysis; preliminary health economics; value-of-information assessment                       | Ranked intervention portfolio; evidence-gap map; business and commissioning cases                                      |
 | **WP3. Transfer-protocol engineering**                     | Transfer-protocol engineering                                | Which cognitive-affective policies are modifiable, and what exactly transfers?                                  | Computational modelling; synthetic experiments; protocol adaptation; dense human calibration; wrapper shifts; held-out compositions; active controls; delayed probes | Versioned exam-anxiety and pain protocols; ADHD executive-support prototype; transfer ladders; adaptive controllers; bank/revise/retire decisions                              |
 | **WP4. Measurement and psychometrics**                     | Measurement and psychometric engineering                     | Can mechanism and functional change be measured efficiently and reliably?                                       | Task and scale development; IRT/CAT where appropriate; validity and reliability studies; functional-outcome batteries; confidence-label design                       | Mechanism-sensitive measures; short forms; scoring models; outcome batteries; psychometric reports                     |
 | **WP5. Digital delivery and adoption**                     | Digital experience, integration, access and adoption         | Can people understand, enter and sustain the support, and can services integrate it?                            | Lived-experience co-design; UX and accessibility testing; app and website development; practitioner tools; APIs; implementation planning                             | User app; public website; practitioner dashboard; onboarding system; implementation guide                              |
 | **WP6. Prospective validation and knowledge mobilisation** | Research, validation, publication and knowledge mobilisation | Do the selected protocols improve independent functioning and merit wider deployment?                           | Feasibility studies; controlled pilots; process evaluation; health economics; implementation analysis; preregistration and publication                               | Peer-reviewed papers; protocol papers; pilot reports; ADHD pathway and co-design outputs; implementation outputs; future trial specifications               |
-| **Cross-cutting assurance and IP**                         | Governance, ethics, assurance and IP stewardship             | What may be measured, inferred, shared, automated, published or commercialised?                                 | Research ethics; clinical safety; data protection; safeguarding; model cards; decision-rights design; publication/IP review                                          | Assurance case; risk register; data-management plan; IP register; collaboration and licensing agreements               |
+| **Cross-cutting assurance and IP**                         | Governance, ethics, assurance and IP               | What may be measured, inferred, shared, automated, published or commercialised?                                 | Research ethics; clinical safety; data protection; safeguarding; model cards; decision-rights design; publication/IP review                                          | Assurance case; risk register; data-management plan; IP register; collaboration and licensing agreements               |
 
 ---
 
-# 5. Demonstrator A: exam and mathematics anxiety
+# 5. Application A: exam and mathematics anxiety
 
 ## Pathway being addressed
 
@@ -180,7 +168,7 @@ academic demand increases
 → variable access to timely support
 ```
 
-The first deployment setting could be King’s College London. King’s already offers counselling, wellbeing advice, online support, solution-focused coaching and triage to different support routes. Its digital wellbeing provision also includes an external partnership with Spectrum.Life. This provides an existing support ecosystem into which a bounded exam-anxiety demonstrator could be studied rather than creating a wholly separate service. ([King's College London][3])
+The first deployment setting could be King’s College London. King’s already offers counselling, wellbeing advice, online support, solution-focused coaching and triage to different support routes. Its digital wellbeing provision also includes an external partnership with Spectrum.Life. This provides an existing support ecosystem into which a bounded exam-anxiety  application could be studied rather than creating a wholly separate service. ([King's College London][3])
 
 ## Candidate mechanisms
 
@@ -204,16 +192,15 @@ A short digitally delivered programme combining:
 * adaptive evidence tasks;
 * interpretation and near-miss discrimination;
 * recovery after threat-related distraction;
-* task-initiation and implementation-intention support;
-* exposure to changing mathematical, verbal and visual wrappers;
-* performance simulations and delayed re-checks.
+* task-initiation and implementation-intention support
+* functional and delayed transfer checks.
 
-## Outcome hierarchy
+## Outcomes
 
 | Level                     | Example measure                                                                    |
 | ------------------------- | ---------------------------------------------------------------------------------- |
 | Trained operation         | Performance on the trained attention or interpretation task                        |
-| Protected transfer        | New stimuli, timings, wrappers and held-out task compositions                      |
+| Protected transfer        | New stimuli, timings, modalities                                                   |
 | Independent task transfer | Separate attentional-bias, evidence-control or arithmetic-pressure task            |
 | Functional transfer       | Revision initiation, avoidance, study persistence, exam attendance and functioning |
 | Academic outcome          | Performance where ethically and practically available                              |
@@ -224,12 +211,12 @@ The primary claims would concern functional support and resilience under evaluat
 
 ---
 
-# 6. Demonstrator B: persistent and chronic pain
+# 6. Application B: chronic and chronic pain
 
 ## Pathway being addressed
 
 ```text
-persistent symptoms
+→ chronic symptoms
 → repeated primary-care contact
 → referral or pain-clinic assessment
 → waiting or fragmented support
@@ -239,7 +226,7 @@ persistent symptoms
 
 NHS pain-management programmes commonly focus on quality of life, activity and self-management despite continuing pain, rather than promising pain elimination. They are frequently multidisciplinary and include psychological, physiotherapy and occupational components. ([nhs.uk][4])
 
-A particularly strong local partner would be the **INPUT Pain Management Unit at Guy’s and St Thomas’**, which delivers adult pain-rehabilitation interventions through psychologists, physiotherapists and occupational therapists and has strong links with King’s College London. ([gstt.nhs.uk][5])
+A strong local partner may be the **INPUT Pain Management Unit at Guy’s and St Thomas’**, which delivers adult pain-rehabilitation interventions through psychologists, physiotherapists and occupational therapists and has strong links with King’s College London. ([gstt.nhs.uk][5])
 
 ## Candidate mechanisms
 
@@ -254,14 +241,13 @@ context-sensitive evidence accumulation
 self-management confidence
 ```
 
-## Candidate intervention
+## Potential intervention
 
 **Adaptive Pain Interpretation and Function Protocol**
 
-A low-intensity digital adjunct combining:
+A low-intensity digital app combining:
 
 * ambiguous-scenario interpretation training;
-* adaptive somatic and non-somatic evidence tasks;
 * attention switching between threat and neutral information;
 * graded near-miss and safety-information discrimination;
 * path-prediction exercises linking action, symptoms and future activity;
@@ -280,33 +266,31 @@ A low-intensity digital adjunct combining:
 | Service outcome                | Engagement, completion, repeated contact and clinician time        |
 | Delayed outcome                | Maintenance of functional improvement and protocol use             |
 
-The programme should avoid treating reduction in pain intensity as the sole or necessary marker of success. Its stronger focus would be **functional engagement, self-management and adaptive interpretation**.
-
 ---
 
 
-# 7. Demonstrator C: adult ADHD support
+# 7. Application C: adult ADHD support
 
 ## Distinct role in the programme
 
 Adult ADHD would strengthen the programme particularly on the **service-pathway, provision and resource-allocation side**.
 
-Exam anxiety and persistent pain primarily demonstrate mechanism-led intervention engineering in domains involving threat-sensitive cognition and functioning. ADHD adds a complementary test case involving:
+Exam anxiety and chronic pain primarily demonstrate mechanism-led intervention engineering in domains involving threat-sensitive cognition and functioning. ADHD adds a complementary test case involving:
 
 ```text
-neurodevelopmental provision shortages
++ neurodevelopmental provision shortages
 + heterogeneous executive-function difficulties
 + long assessment waits
 + limited non-drug support
 + stepped allocation of scarce specialist services
 ```
 
-For the initial Programme Development Grant, ADHD should be positioned as a **third pathway demonstrator**, rather than assuming that it already has the same intervention-development maturity as exam anxiety and persistent pain.
+For an initial Programme Development Grant, ADHD could be positioned as a **third pathway  application**, rather than assuming that it already has the same intervention-development maturity as exam anxiety and chronic pain.
 
 ## Pathway being addressed
 
 ```text
-functional difficulties emerge
+→ functional difficulties emerge
 → GP, university or occupational-health contact
 → referral and triage
 → prolonged assessment wait
@@ -368,12 +352,12 @@ It could combine:
 | **Occupational/educational outcome** | Work or study functioning and persistence |
 | **Delayed outcome** | Maintenance after support is reduced or withdrawn |
 
-## Initial development scope
+## Initial scope
 
-Within the preparatory grant, the ADHD component would focus on:
+Within the preparatory grant, the ADHD component could focus on:
 
 ```text
-adult ADHD provision mapping
+→ adult ADHD provision mapping
 → stakeholder and lived-experience consultation
 → intervention-opportunity prioritisation
 → prototype co-design
@@ -381,14 +365,14 @@ adult ADHD provision mapping
 → feasibility and safeguarding criteria
 ```
 
-A later larger programme could then test the resulting protocol through controlled feasibility or effectiveness studies alongside the exam-anxiety and persistent-pain interventions.
+A later larger programme could then test the resulting protocol through controlled feasibility or effectiveness studies alongside the exam-anxiety and chronic-pain interventions.
 
 ## Strategic value
 
-ADHD may be the strongest demonstrator of the programme’s **system-value proposition**:
+ADHD may be the strongest  application of the programme’s **system-value proposition**:
 
 ```text
-high unmet need
++ high unmet need
 + constrained specialist capacity
 + heterogeneous functional difficulties
 + demand for non-pharmacological support
@@ -396,25 +380,20 @@ high unmet need
 + clear stepped-care and allocation decisions
 ```
 
-It demonstrates that the intervention-intelligence methodology can generalise beyond Dr Gaffiero’s original research domains, while preserving the sequencing rule:
+# 8. Platform / delivery partners
 
-> First understand the pathway, prioritise the opportunity and co-design the support; then test mechanism, transfer and functional value prospectively.
-
-
-# 8. Platform and delivery partners
-
-| Platform or partner type                                       | Possible role                                                                                                        | Best-fit demonstrator                                   |
+| Platform or partner type                                       | Possible role                                                                                                        | Best-fit  application                                   |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | **King’s Student Mental Health and Wellbeing services**        | Recruitment, pathway mapping, co-design, digital integration and functional evaluation                               | Exam anxiety                                            |
 | **Other universities and student-wellbeing providers**         | Multisite replication and implementation studies                                                                     | Exam anxiety                                            |
 | **Spectrum.Life or comparable university wellbeing platforms** | Embedded digital delivery and scaling test                                                                           | Exam anxiety                                            |
 | **Guy’s and St Thomas’ INPUT Pain Management Unit**            | Clinical partner, co-design, feasibility and pathway integration                                                     | Chronic pain                                            |
 | **King’s Health Partners**                                     | Academic-health-system integration and multisite development                                                         | Chronic pain and later wider programme                  |
-| **Community NHS persistent-pain/MSK services**                 | Real-world pathway testing and implementation                                                                        | Chronic pain                                            |
+| **Community NHS chronic-pain/MSK services**                 | Real-world pathway testing and implementation                                                                        | Chronic pain                                            |
 | **NHS Talking Therapies**                                      | Potential route where anxiety/depression co-occurs with a long-term physical condition and lies within service remit | Chronic pain adjunct                                    |
 | **Integrated Care Boards**                                     | Pathway intelligence, commissioning perspective and scale-up                                                         | Chronic pain                                            |
 | **Private health providers and insurers**                      | Faster implementation pilots, preventative support and digital distribution                                          | Primarily chronic pain; later exam/workplace resilience |
-| **Digital-health intervention companies**                      | Product integration, licensing or joint validation                                                                   | All three demonstrators                                 |
+| **Digital-health intervention companies**                      | Product integration, licensing or joint validation                                                                   | All three  applications                                 |
 | **NHS adult ADHD or neurodevelopmental services**              | Pathway mapping, waiting-list analysis, clinical governance, feasibility and stepped-support design                  | Adult ADHD                                              |
 | **Private ADHD assessment and support providers**              | Faster pathway research, co-design, functional-outcome measurement and implementation pilots                         | Adult ADHD                                              |
 | **University disability, learning-support and wellbeing teams**| Recruitment, pathway mapping, interim support design and study-function outcomes                                      | Adult ADHD and exam anxiety                             |
@@ -434,13 +413,13 @@ Dr Gaffiero would be well positioned to lead or co-lead:
 
 * cognitive-bias and health-decision mechanism mapping;
 * exam/mathematics-anxiety protocol development;
-* persistent-pain interpretation-bias work;
+* chronic-pain interpretation-bias work;
 * qualitative and mixed-methods research;
 * intervention acceptability and health-psychology theory;
 * student and patient involvement;
 * publication and academic knowledge mobilisation.
 
-## Complementary role for Mark/IQ Mindware
+## Complementary role for Mark Ashton Smith
 
 **Scientific and technology co-lead: Transfer-Protocol Engineering and Digital Platform**
 
@@ -460,7 +439,7 @@ The collaboration is therefore complementary rather than duplicative:
 Gaffiero:
 health psychology + cognitive-affective mechanisms + exam/pain populations
 
-Smith / IQ Mindware:
+Ashton Smith:
 transfer engineering + cognitive neuroscience + digital protocol infrastructure
 
 Joint:
@@ -471,8 +450,6 @@ pathway intelligence + executive-support co-design
 + neurodevelopmental service and lived-experience partners
 ```
 
-ADHD should be presented as planned platform generalisation, supported by appropriate neurodevelopmental clinical, service and lived-experience expertise rather than treated as an extension requiring no new domain leadership.
-
 ---
 
 # 10. Expanded programme team
@@ -480,7 +457,7 @@ ADHD should be presented as planned platform generalisation, supported by approp
 | Required expertise                                | Role in programme                                                                  | Possible institutional home                 |
 | ------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |
 | **Health psychology lead**                        | Cognitive-affective theory, behaviour change, acceptability and health outcomes    | King’s College London — Dr Gaffiero         |
-| **Transfer-protocol/cognitive neuroscience lead** | Mechanism formalisation, task engineering, adaptive protocols and transfer testing | IQ Mindware/HRP Lab — Dr Smith              |
+| **Transfer-protocol/cognitive neuroscience lead** | Mechanism formalisation, task engineering, adaptive protocols and transfer testing | HRP Lab — Dr Smith              |
 | **Pain clinical lead**                            | Clinical relevance, safeguarding, recruitment and pathway integration              | GSTT INPUT or another NHS pain service      |
 | **Student mental-health lead**                    | Student pathway, risk management, implementation and exam-period delivery          | King’s Student Mental Health/Wellbeing      |
 | **Adult ADHD/neurodevelopmental pathway lead**    | Waiting-pathway analysis, clinical boundaries, stepped support and service integration | NHS, university or specialist ADHD service |
@@ -490,48 +467,48 @@ ADHD should be presented as planned platform generalisation, supported by approp
 | **Implementation scientist**                      | Adoption, context, fidelity and scale-up                                           | KCL/NHS                                     |
 | **Health economist**                              | Cost-consequence, budget impact and value-of-information analysis                  | KCL or health-economics unit                |
 | **Trial statistician/methodologist**              | Study design, active controls, mediation and causal inference                      | KCL Clinical Trials Unit or NIHR RSS        |
-| **Psychometrician/computational modeller**        | Measurement models, task calibration and synthetic design optimisation             | Academic/IQ Mindware                        |
-| **Software and data-engineering lead**            | Secure platform, trial logging, APIs and dashboards                                | IQ Mindware or technology partner           |
+| **Psychometrician/computational modeller**        | Measurement models, task calibration and synthetic design optimisation             | Academic/HRP Lab                        |
+| **Software and data-engineering lead**            | Secure platform, trial logging, APIs and dashboards                                | HRP Lab or technology partner           |
 | **UX/accessibility lead**                         | Co-design, cognitive accessibility and digital adoption                            | Product/research partner                    |
-| **PPI co-leads**                                  | Lived-experience oversight and relevance                                           | Student and persistent-pain representatives |
+| **PPI co-leads**                                  | Lived-experience oversight and relevance                                           | Student and chronic-pain representatives |
 | **Information-governance/clinical-safety lead**   | Data rights, DPIA, safety case and regulatory boundary                             | NHS/KCL                                     |
 | **Commissioner or provider representative**       | Adoption, commissioning and pathway-value perspective                              | ICB/private health provider                 |
 
 ---
 
-# 11. Recommended funder
+# 11. Recommended grants
 
-## Primary destination: NIHR Programme Grants for Applied Research
+## NIHR Programme Grants for Applied Research
 
 **PGfAR is the strongest large-grant fit.**
 
-It funds substantial, multi-method programmes addressing complex priority health and social-care needs, from evidence generation through implementation. Awards typically attract approximately **£2 million–£3.5 million over four to six years**, and eligible hosts include UK HEIs and NHS bodies working in multidisciplinary partnerships. ([NIHR][7])
+It funds multi-method programmes addressing complex priority health and social-care needs, from evidence generation through implementation. Awards typically attract approximately **£2 million–£3.5 million over four to six years**, and eligible hosts include UK HEIs and NHS bodies working in multidisciplinary partnerships. ([NIHR][7])
 
-### Illustrative large-programme specification
+### Example large-programme specification
 
 | Item               |                                                                                                                           Proposed scale |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------: |
 | Duration           |                                                                                                                                  5 years |
 | Indicative budget  |                                                                                                                        £2.8–£3.3 million |
 | Lead institution   |                                                                                                  King’s College London or an NHS partner |
-| Co-leads           |                                                                                            Gaffiero, Smith and NHS clinical/service lead |
+| Co-leads           |                                                                                            Gaffiero, Ashton Smith and NHS clinical/service lead |
 | Core sites         |                                                                                    KCL student-support setting plus one NHS pain pathway |
 | Later sites        |                                                                                            Additional universities and NHS pain services |
 | Research structure |                                                                                              Six linked work packages plus governance/IP |
 | Main outputs       | Platform, exam-anxiety and pain protocols, adult-ADHD pathway model and executive-support prototype, psychometric measures, feasibility/controlled evaluations and implementation cases |
 
-## Realistic preparatory route: NIHR Programme Development Grant
+## NIHR Programme Development Grant
 
 The current programme is ambitious, and the early evidence may not yet be sufficient for a full PGfAR application. A **Programme Development Grant** is explicitly designed to fund preparatory work for a later PGfAR programme. PDG awards provide up to **£250,000 for 12–24 months**. ([NIHR][8])
 
 A PDG would fund:
 
 ```text
-pathway mapping across all three demonstrators
++ pathway mapping across all three applications
 + PPI and co-design
 + evidence and mechanism synthesis
 + intervention prioritisation
-+ primary protocol development for exam anxiety and persistent pain
++ primary protocol development for exam anxiety and chronic pain
 + adult ADHD provision mapping and prototype co-design
 + preliminary psychometrics
 + feasibility estimates
@@ -541,16 +518,16 @@ pathway mapping across all three demonstrators
 Recommended sequencing:
 
 ```text
-Primary protocol demonstrators:
-exam anxiety + persistent pain
+Primary protocol applications:
+exam anxiety + chronic pain
 
-Third pathway demonstrator:
+Third pathway application:
 adult ADHD provision mapping,
 intervention prioritisation and prototype co-design
 
 Later full programme:
 controlled feasibility or effectiveness studies
-across all three demonstrators
+across all three applications
 ```
 
 This creates the most credible funding sequence:
@@ -573,7 +550,7 @@ multisite effectiveness, implementation and commercial deployment
 | ---------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------: | ---------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | **NIHR Programme Grants for Applied Research** | Full linked programme spanning intervention development, evaluation and implementation |                                     Around £2m–£3.5m over 4–6 years | **Excellent** once preparatory evidence and NHS partnerships exist                       | Primary large-grant destination                           |
 | **NIHR Programme Development Grants**          | Preparatory work for a future PGfAR                                                    |                                       Up to £250k over 12–24 months | **Excellent now**                                                                        | Best immediate application                                |
-| **NIHR Research for Patient Benefit**          | Focused feasibility study or controlled pilot with near-term NHS benefit               |                                            Up to £500k over 3 years | Strong for the pain demonstrator; less suitable for the full enterprise platform         | Alternative focused pilot                                 |
+| **NIHR Research for Patient Benefit**          | Focused feasibility study or controlled pilot with near-term NHS benefit               |                                            Up to £500k over 3 years | Strong for the pain  application; less suitable for the full enterprise platform         | Alternative focused pilot                                 |
 | **NIHR HSDR**                                  | Evaluation of service organisation, delivery, workforce and pathway transformation     | No standard fixed project ceiling; often multisite service research | Strong if the proposal is narrowed to pathway redesign and implementation                | Alternative for a service-intelligence study              |
 | **MRC–NIHR Better Methods, Better Research**   | Generalisable research-methodology innovation                                          |                                           Typically up to £625k FEC | Potentially strong for the transfer-evidence and synthetic-experiment methodology itself | Separate methodology application                          |
 | **UKRI/ESRC**                                  | Student mental health, education, behaviour, inequality and organisational systems     |                                                    Scheme-dependent | Better for exam anxiety as an educational/public-policy study                            | Secondary route, not the main integrated-health programme |
@@ -589,7 +566,7 @@ HSDR is particularly suited to mixed-methods evaluations of the organisation and
 ```text
 INPUTS
 
-Health-psychology expertise
++ Health-psychology expertise
 + transfer-protocol methodology
 + NHS and university pathways
 + digital platform capability
@@ -600,7 +577,7 @@ Health-psychology expertise
 
 ACTIVITIES
 
-Map pathways
+→ Map pathways
 → identify high-value opportunities
 → engineer interventions
 → validate measures
@@ -612,10 +589,10 @@ Map pathways
 
 NEAR OUTPUTS
 
-Pathway maps for exam anxiety, persistent pain and adult ADHD
+Pathway maps for exam anxiety, chronic pain and adult ADHD
 Intervention portfolio
 Exam-anxiety protocol
-Persistent-pain protocol
+chronic-pain protocol
 Adult-ADHD executive-support prototype
 Mechanism-sensitive and functional measures
 User app and website
@@ -659,16 +636,16 @@ What evidence would show that it genuinely transfers?
 
 Its distinctive methodological contribution would be:
 
-> **A computationally assisted, progressively staged method for determining which cognitive-affective or executive-support interventions deserve the expense of full clinical, educational and implementation trials.**
+> **A computationally (AI) assisted, progressively staged method for determining which cognitive-affective or executive-support interventions deserve the expense of full clinical, educational and implementation trials.**
 
-The three demonstrators test reuse across different functional architectures:
+The three  applications test reuse across different functional architectures:
 
 ```text
 evaluative threat
 → exam anxiety
 
 symptom interpretation and avoidance
-→ persistent pain
+→ chronic pain
 
 variable attention, executive control and provision scarcity
 → adult ADHD support
@@ -677,7 +654,7 @@ variable attention, executive control and provision scarcity
 Each protocol would advance through explicit gates:
 
 ```text
-model-supported candidate
+→ model-supported candidate
 → calibrated human protocol
 → protected transfer
 → active-controlled mechanism evidence
@@ -695,8 +672,6 @@ Before application, the partners should agree:
 
 | IP area                                                | Proposed treatment                                                               |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| Existing IQ Mindware/Trident-G methods                 | Background IP retained by its current owner and licensed to the project          |
-| Gaffiero’s existing stimulus sets and academic methods | Background academic IP identified and governed through KCL                       |
 | New intervention protocols                             | Foreground ownership agreed by contribution and institutional policy             |
 | New software and platform code                         | Ownership/licensing defined before development                                   |
 | New datasets and scoring models                        | Controlled access, provenance and permitted-use rules                            |
@@ -704,44 +679,9 @@ Before application, the partners should agree:
 | Commercial licensing                                   | Pre-agreed route for NHS, university and private-provider deployment             |
 | AI-generated materials                                 | Human review, provenance records and no unreviewed clinical content              |
 
-The objective should be to protect the commercially distinctive platform while still producing protocol papers, psychometric validation, feasibility studies and peer-reviewed health-psychology outputs.
+The objective should be to protect the commercial platform while still producing protocol papers, psychometric validation, feasibility studies and peer-reviewed health-psychology outputs.
 
 ---
-
-# 16. Proposed message to Dr Gaffiero
-
-> **I would like to explore a joint health-psychology research programme that builds directly on your work on mathematics anxiety, pain interpretation bias and health-related decision-making.**
->
-> Rather than developing one isolated digital intervention, the programme would create a reusable system for mapping where low-intensity cognitive-affective support could add the most value, prioritising candidate mechanisms, engineering interventions designed for transfer, and testing whether changes affect meaningful functioning.
->
-> We could begin with two primary protocol demonstrators: exam anxiety within university wellbeing pathways and persistent pain within NHS pain-management pathways. A third demonstrator would examine adult ADHD provision, waiting-list support and executive-function needs, initially through pathway mapping, intervention prioritisation and prototype co-design. Your health-psychology and cognitive-bias expertise would combine with my transfer-protocol, cognitive-neuroscience and digital-platform work, alongside appropriate neurodevelopmental service and lived-experience partners.
->
-> The immediate objective would be an NIHR Programme Development Grant to build the partnerships, pathway maps, PPI, protocols and feasibility evidence required for a subsequent £2–£3.5 million NIHR Programme Grant for Applied Research.
->
-> The intended output would be both a strong publication programme and a clinically governed digital platform that could later be embedded in university, NHS, private-health and occupational-support systems.
-
-## Bottom-line recommendation
-
-The strongest funding and partnership strategy is:
-
-```text
-KCL Health Psychology
-+ IQ Mindware/HRP Lab transfer methodology
-+ KCL student-support pathway
-+ GSTT or comparable NHS pain service
-+ adult ADHD/neurodevelopmental pathway partner
-+ implementation, health economics and trials expertise
-        ↓
-NIHR Programme Development Grant
-        ↓
-NIHR Programme Grant for Applied Research
-```
-
-The programme should be presented not as three unrelated apps, but as:
-
-> **A reusable health-psychology and human-capacity intervention-intelligence platform, demonstrated through exam anxiety, persistent pain and adult ADHD support.**
-
-The first two areas provide the primary mechanism-led protocol demonstrators. Adult ADHD demonstrates planned generalisation into service shortages, executive-function support and stepped resource allocation.
 
 [1]: https://www.kcl.ac.uk/people/daniel-gaffiero?utm_source=chatgpt.com "Daniel Gaffiero"
 [2]: https://pubmed.ncbi.nlm.nih.gov/35069368/?utm_source=chatgpt.com "Interpretation Biases in Pain: Validation of Two New ..."
