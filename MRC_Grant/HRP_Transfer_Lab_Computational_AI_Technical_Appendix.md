@@ -96,6 +96,148 @@ The project will not attempt to provide:
 - definitive proof of far transfer from task improvement alone;
 - strong physiological adaptation claims before separate biosignal feasibility work.
 
+### 3.3 Generalisable architecture and domain-adaptation boundary
+
+Although the initial product and validation programme focus exclusively on chronic primary pain, the HRP Transfer Lab is designed as a **generalisable intervention-development architecture**, not as a single-condition software tool.
+
+Its core value lies in the fact that the same computational and translational infrastructure can be reused across clinical and health-related domains in which maladaptive cognitive-affective processes influence behaviour, functioning or treatment engagement. The reusable components include:
+
+* evidence and dataset registries;
+* provenance and transportability-weighted prior systems;
+* modular cognitive and psychometric model layers;
+* synthetic-participant and synthetic-experiment engines;
+* parameter-recovery and model-recovery tools;
+* simulation-based power and study-design optimisation;
+* psychometric item, task and short-form development workflows;
+* protected and delayed transfer testing;
+* pathway-placement and implementation-intelligence methods;
+* reproducibility, governance and claims-control systems.
+
+The chronic-primary-pain programme therefore serves as the **first full clinical instantiation and validation case** for a broader development model.
+
+The generalisable element is not a fixed set of pain tasks or pain-specific parameters. It is the underlying translational workflow:
+
+```text
+define the functional health problem
+→ identify the candidate cognitive-affective bottleneck
+→ formalise competing mechanisms
+→ develop mechanism-sensitive tasks and measures
+→ constrain models using relevant evidence and priors
+→ simulate heterogeneous populations and intervention scenarios
+→ test identifiability, power and transfer designs
+→ conduct focused human calibration
+→ compare candidates prospectively
+→ evaluate functional outcomes and pathway fit
+→ advance, revise or retire
+```
+
+This workflow is intended to remain structurally stable across applications, while the clinical content, measures, parameters, interventions and pathway models are adapted to the target domain.
+
+A more abstract mechanism scaffold is:
+
+```text
+domain-relevant cue, demand or ambiguity
+→ attention and evidence selection
+→ interpretation, valuation or prediction
+→ uncertainty monitoring and confidence regulation
+→ action selection, persistence or avoidance
+→ environmental feedback and model updating
+→ retention and reconstruction in a changed context
+→ functional outcome
+```
+
+This structure is relevant to a broad class of problems in which functioning depends on how a person selects information, interprets uncertainty, predicts outcomes, commits to action and updates from experience.
+
+For chronic primary pain, the scaffold is instantiated through:
+
+```text
+pain-related sensation or situational ambiguity
+→ threat-sensitive attention
+→ threat and safety appraisal
+→ uncertainty about activity and consequences
+→ activity, avoidance or self-management decision
+→ experienced outcome
+→ updating of pain and activity predictions
+→ reuse in daily functioning
+```
+
+Future applications could instantiate the same architecture differently. Examples might include:
+
+* threat appraisal, uncertainty and safety behaviour in anxiety;
+* attentional instability, context switching and action control in ADHD;
+* cue salience, reward valuation and inhibitory control in addiction;
+* negative interpretation, effort valuation and withdrawal in depression;
+* fatigue prediction, pacing and activity decisions in long-term health conditions;
+* cognitive control and performance under pressure in educational or occupational settings.
+
+These examples represent future applications of the architecture, not claims that the chronic-pain intervention or its parameters will transfer directly to those domains.
+
+The platform is therefore **domain-adaptive rather than domain-agnostic**. Generalisability applies to the development architecture, not automatically to the clinical evidence.
+
+A task, parameter, prior distribution, psychometric measure, intervention component or pathway model validated in chronic primary pain cannot be transferred directly to another indication without a separately justified adaptation and validation process.
+
+Each new domain instantiation would require the following.
+
+1. **Clinical and functional problem definition**
+
+   The target population, health need, intended use and meaningful functional outcome must be specified independently.
+
+2. **Mechanism mapping**
+
+   A theoretically and empirically justified account must identify the candidate cognitive-affective processes linking the health problem to behaviour or functioning.
+
+3. **Task and measurement adaptation**
+
+   Tasks and psychometric measures must be selected or constructed to identify the proposed mechanisms. New measures would require construct specification, content-validity review, cognitive interviewing, human calibration, reliability assessment, fairness testing and independent validation.
+
+4. **Domain-specific evidence and priors**
+
+   Relevant datasets must be registered and assessed for construct, task, population and delivery match. Cross-domain borrowing would require an explicit bridging model, uncertainty discounting and sensitivity analysis. No pain-specific prior or parameter would be reused silently.
+
+5. **Computational design validation**
+
+   The adapted tasks, models and study designs must undergo fresh parameter recovery, model recovery, simulation-based calibration, power analysis and synthetic stress-testing.
+
+6. **Intervention re-specification**
+
+   Candidate intervention components must be linked to the newly defined mechanism rather than inherited from the pain demonstrator by default.
+
+7. **Transfer-framework adaptation**
+
+   The relevant forms of near, horizontal, compositional, cross-task, delayed and functional transfer must be defined for the new intervention and outcome context.
+
+8. **Pathway re-instantiation**
+
+   Intended users, access routes, clinical boundaries, practitioner roles, safeguarding procedures, escalation requirements and implementation constraints must be mapped within the relevant healthcare system and jurisdiction.
+
+9. **Prospective human calibration and validation**
+
+   Human evidence remains necessary to calibrate the model, validate the measures, test intervention effects, assess safety and determine whether change transfers to meaningful functioning.
+
+This architecture creates two distinct forms of value.
+
+### Immediate translational value
+
+The project will produce a mechanism-led digital intervention, measurement system and implementation model for chronic primary pain.
+
+### Platform value
+
+The project will also establish a reusable, versioned and auditable method for developing future cognitive-affective interventions and psychometric tools more efficiently across other indications.
+
+The initial MRC project will not test multiple clinical indications. Its reusable outputs will instead include:
+
+* a documented domain-adaptation framework;
+* modular technical infrastructure;
+* reusable registry schemas;
+* general model and simulation components;
+* a validated intervention-development workflow;
+* a transferable psychometric-development process;
+* and explicit rules governing cross-domain evidence borrowing and claims.
+
+Any later indication would constitute a separate clinical-development and validation programme.
+
+The domain-adaptation framework therefore strengthens the platform’s scientific, translational and commercial potential while preserving the integrity of the single-indication MRC application. It allows the project to demonstrate that the computational investment is reusable, without implying that clinical efficacy, psychometric validity or pathway fit can be transferred between populations without new evidence.
+
 ---
 
 ## 4. System architecture
