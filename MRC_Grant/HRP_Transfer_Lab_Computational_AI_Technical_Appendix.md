@@ -1392,6 +1392,3 @@ The distinctive contribution is not the use of AI or synthetic data in isolation
 
 ---
 
-## Source basis
-
-This specification has been developed from the definitive MRC general application plan, the HRP Transfer Lab concept and critique notes, the Trident-G transfer protocol, the Cloud Lab governance model, and the wider Intervention-Intelligence Platform capability model. The current MRC Proof of Concept scheme also recognises research tools and platform technologies that increase the efficiency of intervention development, while remaining focused on progress towards patient benefit and commercialisation.
