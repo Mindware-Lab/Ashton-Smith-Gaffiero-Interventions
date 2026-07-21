@@ -8,7 +8,7 @@
 
 The project will develop and establish proof of concept for an **AI-assisted, mechanism-led digital cognitive-affective intervention for chronic primary pain**, while validating a computational research tool designed to reduce uncertainty and improve efficiency during intervention selection and optimisation.
 
-The project has two integrated products, supported by a focused service-pathway and implementation-intelligence strand:
+The project has two integrated products: a pain-specific clinical intervention and a generalisable computational development technology, supported by a focused service-pathway and implementation-intelligence strand. Chronic primary pain will provide the first full clinical instantiation and validation case for the reusable architecture.
 
 ### Clinical product
 
@@ -34,7 +34,8 @@ The **HRP Transfer Lab**, a computational intervention-development engine combin
 * efficient human-study design;
 * protected and delayed transfer tests.
 
-The computational system will not be presented as replacing clinical research. Its purpose is to identify weak intervention designs early, optimise promising candidates, and make subsequent human studies smaller, denser and more informative.
+The computational system will not be presented as replacing clinical research. Its purpose is to identify weak intervention designs early, optimise promising candidates, and make subsequent human studies smaller, denser and more informative. Although validated initially through chronic primary pain, the HRP Transfer Lab is designed as reusable research infrastructure. Its registries, modular model layers, synthetic-experiment methods, psychometric-development workflows, transfer-testing framework and governance systems could subsequently be adapted to other cognitive-affective health problems. Each new indication would require its own mechanism mapping, domain-specific evidence, task and measure validation, human calibration and clinical-pathway specification.
+
 
 ### Supporting service-pathway and implementation-intelligence strand
 
@@ -80,7 +81,9 @@ Chronic primary pain provides a stronger lead indication than maths-exam anxiety
 * established relevance of attention, interpretation, threat appraisal, prediction and avoidance;
 * a credible route from proof of mechanism to patient benefit.
 
-The approach remains generalisable to other cognitive-affective conditions, but the application should focus on **one clinical indication**. Adult ADHD, exam anxiety and other uses should appear only as future extension opportunities.
+The application will remain focused on one clinical indication. However, chronic primary pain will serve as the first full demonstrator of a broader, domain-adaptive intervention-development architecture. The reusable value lies in the computational and translational workflow—not in assuming that pain-specific tasks, parameters or clinical findings transfer automatically to other populations.
+
+Future applications could include adult ADHD, anxiety, addiction, depression, fatigue-related conditions and performance under pressure, but each would require a separate mechanism model, evidence base, measurement system, pathway specification and prospective validation programme.
 
 ---
 
@@ -151,10 +154,10 @@ Outputs:
 
 ### Aim 2: Build and validate the computational development engine
 
-Develop the HRP Transfer Lab components required to:
+Develop and validate the reusable HRP Transfer Lab components required to:
 
 * ingest relevant evidence and behavioural data;
-* register parameter estimates with provenance and transportability ratings;
+* register parameter estimates with source traceability and transportability ratings;
 * formalise competing cognitive-affective mechanisms;
 * simulate heterogeneous synthetic participants;
 * test parameter and model recoverability;
@@ -168,7 +171,9 @@ Outputs:
 * synthetic experiment engine;
 * recovery and calibration report;
 * reproducible evidence packets;
-* recommended candidate protocols for human testing.
+* recommended candidate protocols for human testing;
+* documented domain-adaptation framework;
+* reusable registry, modelling, simulation and psychometric-development schemas.
 
 ### Aim 3: Produce and refine a pain-specific digital prototype
 
@@ -312,11 +317,13 @@ Activities:
 * conduct parameter and model recovery;
 * assess statistical power and information value;
 * compare candidate protocol designs;
-* generate prospective human-study predictions.
+* generate prospective human-study predictions;
+* document the reusable architecture and domain-adaptation requirements for later indications.
 
 Key output:
 
-> A validated design engine that can distinguish proposed mechanisms and recommend informative human comparisons.
+> A reusable computational design engine, validated through the chronic-primary-pain demonstrator, that can distinguish proposed mechanisms, improve the design of human comparisons and provide a documented framework for adaptation to future indications.
+
 
 A separate technical appendix will describe this work package in detail.
 
@@ -719,7 +726,9 @@ proof-of-concept award
 → broader pathway adoption
 ```
 
-The computational development engine may eventually support other indications, but its commercial case should initially be anchored to the pain intervention and validated research-tool function.
+The immediate commercial and patient-benefit case will remain anchored to the chronic-primary-pain intervention. However, a substantial part of the project’s longer-term value lies in validating a reusable intervention and psychometric-development architecture that can be licensed, partnered or instantiated in other indications.
+
+The platform-level assets may include reusable registry schemas, computational model components, synthetic-experiment workflows, psychometric-development methods, transfer-testing protocols and governance systems. Any later indication would require a separate clinical product, evidence base and validation programme.
 
 ---
 
@@ -978,9 +987,10 @@ This will define:
 * AI-agent roles;
 * reproducibility;
 * governance;
-* measurable efficiency evaluation.
+* measurable efficiency evaluation;
+* generalisable architecture and domain-adaptation rules;
 
-A two-page concept note for MRC and potential partners should then be extracted from Documents A and B rather than developed independently.
+A two-page concept note for MRC and potential partners should then be extracted from Documents A and B. It should present chronic primary pain as the funded clinical product while explaining that the computational investment establishes a reusable intervention and measurement-development architecture.
 
 ---
 
