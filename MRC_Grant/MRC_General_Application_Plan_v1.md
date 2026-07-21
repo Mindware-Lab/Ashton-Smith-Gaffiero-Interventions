@@ -54,7 +54,73 @@ This is not intended to become a comprehensive NHS service-modelling programme o
 
 ---
 
+## 1.1 Preliminary enabling study and platform de-risking
+
+A parallel BPS Small Research Grant feasibility study, led by Dr Daniel Gaffiero with Dr Mark Ashton Smith as co-applicant, will provide an initial empirical implementation of the transfer-protocol engineering methodology.
+
+The study adapts the masked Majority Function Task from absolute feature judgements to relational judgements and examines whether training transfers directionally between absolute and relative cognitive-control conditions in university students reporting moderate-to-high mathematics anxiety. It includes an active-control condition, repeated digital training, pre-, mid-, post- and follow-up assessment, and an independent arithmetic-performance outcome under evaluative pressure.
+
+Although the study addresses mathematics anxiety rather than chronic primary pain, it tests several platform-level capabilities directly relevant to the proposed MRC programme:
+
+* remote delivery of an adaptive cognitive intervention;
+* trial-level behavioural and timing instrumentation;
+* separation of trained-task improvement from relational transfer;
+* estimation of learning curves, transfer asymmetry and delayed recovery;
+* preliminary psychometric, usability and acceptability assessment;
+* generation of empirically constrained parameter distributions for computational modelling and synthetic experimental optimisation.
+
+The study will therefore be treated as an **enabling calibration study**, not as evidence for the efficacy of the pain intervention. Its data and design will help de-risk the reusable transfer-testing, adaptive-controller and computational-development components of the proposed programme.
+
+Where appropriate and subject to ethics, consent and data-governance arrangements, its outputs will inform:
+
+```text
+learning-curve estimation
+→ transfer-cost modelling
+→ parameter and model recovery
+→ synthetic-population calibration
+→ protocol-schedule optimisation
+→ design of the chronic-pain human studies
+```
+
+All pain-specific mechanisms, task adaptations, clinical interpretations and functional outcomes will nevertheless be developed and prospectively validated within the chronic-primary-pain population.
+
+---
+
+## 1.2 Developmental architecture
+
+The enabling mathematics-anxiety study and the proposed MRC project form two sequential but scientifically distinct stages of the wider transfer-engineering programme.
+
+ENABLING FEASIBILITY STUDY
+
+Mathematics-anxiety study
+→ test remote digital delivery
+→ calibrate transfer-sensitive measures
+→ estimate human learning and variability
+→ evaluate the computational workflow
+
+                    
+MRC CLINICAL DEVELOPMENT PROGRAMME
+
+Pain-specific intervention
++ HRP Transfer Lab
++ chronic-primary-pain mechanism mapping
++ human model calibration
++ active-controlled proof of concept
++ functional and delayed outcomes
+
+The developmental sequence is:
+
+generic transfer-engineering capability
+first implemented in an accessible, lower-risk population
+→ computational and measurement methodology refined
+→ condition-specific clinical architecture developed
+→ chronic-primary-pain proof of concept conducted
+
+The enabling study contributes methodological and platform-level learning. It does not provide direct evidence for pain-specific mechanisms, clinical efficacy or functional benefit. Those questions will be addressed prospectively within the chronic-primary-pain programme.
+
 ## 2. Why the project fits the MRC Proof of Concept call
+
+> The project combines a defined clinical product, a reusable computational development technology and an enabling human feasibility study that begins to de-risk the proposed transfer-engineering methodology.
 
 The MRC call supports academically led translational projects that:
 
