@@ -127,8 +127,6 @@ Candidate components may include:
 * real-world implementation missions;
 * delayed transfer probes.
 
-The final prototype should be a **focused intervention sequence**, not the full HRP task ecosystem.
-
 ---
 
 ## 4. Primary aims
