@@ -153,7 +153,150 @@ Future applications could include adult ADHD, anxiety, addiction, depression, fa
 
 ---
 
-## 3. Central development proposition
+The **Scientific background** section should go **immediately after Section 2 and before the current “Central development proposition”**.
+
+Your structure should become:
+
+```text
+1. Proposed project
+1.1 Preliminary enabling study and platform de-risking
+1.2 Developmental architecture
+
+2. Why the project fits the MRC Proof of Concept call
+
+3. Scientific background and preliminary evidence
+
+4. Central development proposition
+
+5. Primary aims
+6. Focused service-pathway and implementation-intelligence strand
+7. Proposed work packages
+...
+
+# 3. Scientific background and preliminary evidence
+
+### 3.1 Chronic primary pain as a significant health and functional problem
+
+Cover:
+
+* prevalence and burden;
+* pain interference and reduced functioning;
+* limits and variability of current support;
+* need for scalable psychological and behavioural adjuncts;
+* relevance of NHS pain-management and rehabilitation pathways.
+
+### 3.2 Cognitive-affective mechanisms relevant to functioning
+
+Introduce the proposed connected mechanism chain:
+
+```text
+attention to bodily and contextual information
+→ interpretation of ambiguity
+→ uncertainty and reliability estimation
+→ threat or safety prediction
+→ avoidance or activity decision
+→ environmental feedback
+→ belief and policy updating
+```
+
+Discuss the evidence for:
+
+* pain-related interpretation bias;
+* threat-sensitive attention;
+* fear and avoidance;
+* expectations and prediction;
+* uncertainty monitoring;
+* activity decisions;
+* self-management and functional outcomes.
+
+### 3.3 Limitations of existing intervention-development approaches
+
+Explain that existing interventions may:
+
+* combine multiple components without identifying the active mechanism;
+* optimise engagement rather than functional transfer;
+* rely heavily on average treatment effects;
+* test only near outcomes;
+* invest in large studies before resolving task reliability or mechanism identifiability;
+* struggle to determine which components should be retained, revised or retired.
+
+This creates the problem that the HRP Transfer Lab addresses.
+
+### 3.4 Scientific rationale for transfer-protocol engineering
+
+Set out the distinction between:
+
+```text
+trained-task improvement
+≠ mechanism change
+≠ protected transfer
+≠ functional transfer
+≠ delayed retention
+```
+
+Explain the proposed staged progression:
+
+```text
+trained operation
+→ new parameters
+→ changed wrapper or context
+→ independent task
+→ functional outcome
+→ delayed re-check
+```
+
+This is where you justify protected outcomes, active controls, model comparison and delayed probes.
+
+### 3.5 Computational and AI-assisted development rationale
+
+Explain how the computational platform could improve early intervention development through:
+
+* auditable parameter priors;
+* competing generative models;
+* empirically constrained simulated populations;
+* parameter and model recovery;
+* detection of floor and ceiling effects;
+* identification of non-identifiable mechanisms;
+* optimisation of task conditions and trial allocation;
+* prospective predictions for human studies.
+
+Keep the evidential boundary explicit:
+
+> Simulation supports intervention selection and experimental design; it does not establish clinical efficacy or replace prospective human validation.
+
+### 3.6 Existing assets and preliminary enabling evidence
+
+Separate the evidence into a table:
+
+| Evidence source                     | Current asset                                                                   | What it supports                                                             |
+| ----------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| **Published mechanism research**    | Pain interpretation, attention, appraisal, avoidance and functioning literature | Scientific plausibility                                                      |
+| **Published task foundations**      | MFT-M and related cognitive-control paradigms                                   | Measurement and task rationale                                               |
+| **Existing digital infrastructure** | Task rendering, adaptive control, trial logging and transfer-test architecture  | Technical feasibility                                                        |
+| **Proposed BPS enabling study**     | Mathematics-anxiety feasibility and directional-transfer design                 | Platform delivery, transfer measurement and future computational calibration |
+| **Required pain-specific work**     | Chronic-pain mechanism mapping, co-design and human calibration                 | Clinical validity and target-population relevance                            |
+
+Cross-reference Section 1.1 here rather than repeating the entire BPS-study description:
+
+> As outlined in Section 1.1, the proposed mathematics-anxiety feasibility study will provide an enabling implementation and calibration case for the general transfer-engineering methodology. It will not be treated as direct evidence for the chronic-pain intervention.
+
+### 3.7 Translational uncertainty addressed by the award
+
+End the section by stating exactly what is not yet known:
+
+* whether the proposed pain mechanisms can be measured reliably in the intended population;
+* whether competing models can be distinguished;
+* which intervention configuration most effectively changes the target process;
+* whether change transfers to an untrained task;
+* whether there is a preliminary functional signal;
+* whether computational predictions correspond to human outcomes;
+* whether the intervention has a viable and safe pathway position.
+
+> The proposed award will therefore bridge the gap between mechanism plausibility and a clinically credible digital product. It will determine whether the target cognitive-affective processes can be measured and modified, whether changes survive protected transfer tests and delay, and whether the computational development engine improves intervention selection sufficiently to justify larger clinical and implementation studies.
+
+```
+
+## 4. Central development proposition
 
 The proposed innovation is not simply another cognitive-training task.
 
@@ -198,7 +341,7 @@ Candidate components may include:
 
 ---
 
-## 4. Primary aims
+## 5. Primary aims
 
 ### Aim 1: Define the target product, pathway position and mechanism model
 
@@ -294,7 +437,7 @@ Primary questions:
 
 ---
 
-## 5. Focused service-pathway and implementation-intelligence strand
+## 6. Focused service-pathway and implementation-intelligence strand
 
 This supporting strand will ensure that the intervention is designed for a defined point in the chronic-pain pathway rather than developed as a context-free digital product.
 
