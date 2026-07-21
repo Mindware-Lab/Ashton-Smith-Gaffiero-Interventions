@@ -564,6 +564,7 @@ Responsibilities:
 
 * pain clinician or pain psychologist;
 * biostatistician or computational statistician;
+* affective-computing, cognitive-neuroscience and human–computer-interaction expertise;
 * software/research engineer;
 * qualitative and PPI expertise;
 * health-services researcher or implementation scientist;
@@ -577,47 +578,75 @@ Public contributors can now be listed as specialists in UKRI core teams, where a
 
 ### Priority team strengthening before submission
 
-The application would be materially strengthened by identifying **two additional named contributors** early, subject to their interest, capacity and institutional approval.
+The application would be materially strengthened by identifying **two essential named contributors and one complementary international specialist** at an early stage, subject to their interest, availability, current affiliation, institutional eligibility and approval.
 
-| Priority addition | Proposed contribution | Why this substantially strengthens the application |
-| --- | --- | --- |
-| **Dr Whitney Scott — Senior Lecturer in Clinical Health Psychology, Clinical Psychologist and Research Lead at the INPUT Pain Unit** | Clinical pain co-lead or specialist; target-population definition; pathway placement; recruitment feasibility; clinical safety; digital-pain intervention design; PPI and NHS implementation | Adds direct chronic-pain clinical practice, an established INPUT pathway, online-intervention expertise and a credible route from the prototype to patient recruitment and service adoption |
-| **A named senior medical statistician from the KCL Mental Health & Neuroscience Clinical Trial Statistics Group, ideally developed with Professor Ben Carter’s group** | Quantitative co-lead or specialist; calibration-study design; hierarchical and longitudinal modelling; synthetic-power validation; active-control design; missing-data strategy; reproducibility and progression criteria | The proposal is unusually model-heavy. A recognised trial statistician would reassure reviewers that simulation, parameter recovery and human inference are integrated into a valid clinical development design rather than operating as a separate technical exercise |
+| Priority addition                                                                                                                                                   | Proposed contribution                                                                                                                                                                                                                                                                                                                                                                                                                         | Why this substantially strengthens the application                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dr Whitney Scott — Senior Lecturer in Clinical Health Psychology, Clinical Psychologist and Research Lead at the INPUT Pain Unit**                                | Clinical pain co-lead or specialist; target-population definition; pathway placement; recruitment feasibility; clinical safety; digital-pain intervention design; patient and public involvement; NHS implementation and service integration                                                                                                                                                                                                  | Adds direct chronic-pain clinical practice, an established INPUT pathway, digital-intervention expertise and a credible route from prototype development to patient recruitment, pathway testing and future service adoption                                                                                                                                   |
+| **A named senior medical statistician from the KCL Mental Health & Neuroscience Clinical Trial Statistics Group, potentially through Professor Ben Carter’s group** | Quantitative co-lead or specialist; mechanism-mapping and calibration-study design; hierarchical, longitudinal and mixture modelling; synthetic-power validation; active-control design; missing-data strategy; reproducibility; causal estimands and progression criteria                                                                                                                                                                    | The proposal is unusually model-heavy. A recognised trial statistician would reassure reviewers that simulation, parameter recovery, prospective prediction and human inference are integrated into a defensible clinical development programme rather than operating as a separate technical exercise                                                         |
+| **Professor Didem Gökçay — potential international specialist in affective computing, cognitive neuroscience and human–computer interaction**                       | Specialist consultant, advisory contributor or, if the scale of contribution and institutional eligibility justify it, international project co-lead; affective-task design; computational representation of emotional and threat-related evidence; human–AI interaction; multimodal behavioural and physiological validation; usability and adaptive-intervention review; independent scientific challenge to the computational architecture | Adds distinctive expertise at the intersection of affective computing, cognitive neuroscience, HCI, AI and multimodal measurement. She could strengthen the emotional and adaptive components of the intervention, advise on future physiological validation and provide an independent international perspective on the computational-development methodology |
 
-Professor Toby Prevost, whose expertise includes early-phase, adaptive and complex-intervention trial design, is a strong alternative quantitative adviser if a more developmentally focused statistical role is required.
+Professor Toby Prevost, whose expertise includes early-phase, adaptive and complex-intervention trial design, would be a strong alternative quantitative adviser if a more developmentally focused statistical role were required.
 
-These roles fill the two most consequential gaps in the current core team:
+Didem Gökçay’s contribution should be positioned as complementary to, rather than substituting for, the embedded NHS pain clinician or senior clinical-trial statistician. The embedded clinician provides operational knowledge of the pain pathway, recruitment, safeguarding, clinical escalation and implementation. The statistician provides authority over human-study design, model calibration, estimands and progression decisions. Didem would add a separate affective-neuroscience, HCI and technology-validation capability.
+
+Her precise role should be confirmed after establishing:
+
+* her current institutional affiliation;
+* her availability and permitted external roles;
+* whether the contribution would be advisory, consultancy-based or institutionally supported;
+* whether she could meet the requirements for an international project co-lead;
+* the ownership, publication and IP implications of her contribution;
+* and whether any physiological or multimodal work falls within the initial project scope or a later extension.
+
+Together, the proposed core team would cover the main scientific and translational functions:
 
 ```text
 Dan Gaffiero
-= health psychology and cognitive-affective mechanism leadership
+= health psychology, pain-related cognitive-affective mechanisms
+  and intervention-development leadership
 
 Mark Ashton Smith
-= transfer engineering, computational architecture and digital protocol development
+= transfer engineering, computational architecture,
+  synthetic experimentation and digital protocol development
 
-Whitney Scott or equivalent INPUT clinical lead
-= chronic-pain practice, NHS pathway, recruitment and clinical credibility
+Whitney Scott or equivalent embedded INPUT clinical lead
+= chronic-pain practice, NHS pathway placement,
+  recruitment, safety and implementation credibility
 
 KCL senior trial statistician
-= defensible human-study design, model calibration and progression decisions
+= human-study design, statistical inference,
+  model calibration and progression decisions
+
+Didem Gökçay
+= affective computing, cognitive neuroscience,
+  HCI and multimodal intervention validation
 ```
 
-A health economist or implementation scientist remains important, but could initially be included as a specialist contribution rather than one of the first two major co-leads. If the service-pathway strand expands, an implementation or health-services researcher should then become a named core-team member.
+A health economist and implementation scientist would also remain important. They could initially contribute as named specialists, particularly to the route-to-benefit, pathway-integration and commercialisation work. If the service-pathway and implementation-intelligence strand expands materially, an implementation or health-services researcher should become a named core-team member with protected project time.
 
 ---
 
 ## 11. Clinical and project partners
 
-Potential partners should have an integral delivery role rather than providing generic endorsement.
+Potential partners should have an integral delivery, research, implementation or translation role rather than providing generic endorsement.
 
 Priority partners include:
 
-* an NHS pain service with recruitment, pathway-mapping, clinical-governance and implementation expertise;
-* a digital-health or implementation partner, if strategically useful;
-* a relevant patient organisation;
-* a data or technology partner only where access is essential.
+* **an NHS pain service**, ideally the INPUT Pain Unit or a comparable service, contributing recruitment, pathway mapping, clinical governance, intervention implementation and practitioner expertise;
+* **a relevant patient or lived-experience organisation**, contributing co-design, acceptability review, outcome prioritisation and dissemination;
+* **a digital-health or implementation partner**, where this would strengthen technical integration, accessibility, pathway adoption or future commercialisation;
+* **a data or technology partner**, but only where access to a specific dataset, infrastructure or specialist capability is essential;
+* **an international academic organisation**, where Didem Gökçay or another overseas collaborator makes a substantive institutional contribution to affective computing, HCI or multimodal validation.
 
-The MRC application accepts letters only from named project partners, and these letters must state the partner’s commitment and substantive added value. General letters of support will be ignored.
+The classification of contributors should be agreed with King’s pre-award and research-contracts teams:
+
+* an individual providing a bounded paid contribution may be listed as a **specialist or consultant**;
+* an organisation providing substantive in-kind support may be included as a **project partner**;
+* a researcher making a major intellectual contribution through an eligible overseas institution may potentially be included as a **project co-lead (international)**;
+* lighter independent scientific input may be provided through an **advisory group**.
+
+The MRC application accepts project-partner letters only from named partners providing substantive added value. Each letter should describe the partner’s specific contribution, resources, commitment and importance to delivery. Generic letters of endorsement should not be requested, as they will not strengthen the application and may be disregarded.
 
 ---
 
@@ -905,10 +934,11 @@ The funding-route decision should be agreed with KCL pre-award, the clinical par
 7. Initiate PPI.
 8. Discuss IP and delivery structure with KCL.
 9. Approach Dr Whitney Scott or an equivalent INPUT pain clinical lead about a substantive clinical and pathway role.
-10. Secure a named senior trial statistician, ideally through Professor Ben Carter’s KCL group or an equivalent KCTU/Biostatistics route.
-11. Agree remaining team gaps, particularly software engineering, health-services/implementation research and health economics.
-12. Identify the pathway documents, service information and stakeholder input needed for the focused implementation strand.
-13. Hold a formal September funding-route decision covering MRC PoC, MRC Impact Acceleration, NIHR PDG, RfPB, HSDR, Experimental Medicine or deferral to a later round.
+10. Contact Didem Gökçay to establish her current affiliation, interest and availability, and discuss a bounded role in affective computing, HCI and multimodal intervention validation.
+11. Secure a named senior trial statistician, ideally through Professor Ben Carter’s KCL group or an equivalent KCTU/Biostatistics route.
+12. Agree remaining team gaps, particularly software engineering, health-services/implementation research and health economics.
+13. Identify the pathway documents, service information and stakeholder input needed for the focused implementation strand.
+14. Hold a formal September funding-route decision covering MRC PoC, MRC Impact Acceleration, NIHR PDG, RfPB, HSDR, Experimental Medicine or deferral to a later round.
 
 ---
 
