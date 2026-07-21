@@ -103,7 +103,7 @@ Although the initial product and validation programme focus exclusively on chron
 Its core value lies in the fact that the same computational and translational infrastructure can be reused across clinical and health-related domains in which maladaptive cognitive-affective processes influence behaviour, functioning or treatment engagement. The reusable components include:
 
 * evidence and dataset registries;
-* provenance and transportability-weighted prior systems;
+* source traceability systems and transportability-weighted prior systems;
 * modular cognitive and psychometric model layers;
 * synthetic-participant and synthetic-experiment engines;
 * parameter-recovery and model-recovery tools;
@@ -252,7 +252,7 @@ scientific literature
 + lived-experience and stakeholder evidence
         ↓
 DATASET AND EVIDENCE REGISTRY
-licence, provenance, population, task, measures,
+licence, source traceability, population, task, measures,
 preprocessing, permitted use and transportability
         ↓
 PRIOR REGISTRY
@@ -427,7 +427,7 @@ review_status: proposed | approved | retired
 
 The registry will store:
 
-- data provenance;
+- data lineage;
 - licensing and permitted uses;
 - preprocessing decisions;
 - missing-data handling;
@@ -1256,7 +1256,7 @@ No numerical efficiency multiplier will be asserted before empirical comparison 
 
 ---
 
-## 20. Reproducibility, provenance and technical infrastructure
+## 20. Reproducibility, source traceability and technical infrastructure
 
 ### 20.1 Environment allocation
 
