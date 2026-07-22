@@ -1891,6 +1891,7 @@ Key official sources include:
 * King’s Mental Health and Neuroscience Clinical Trial Statistics Group.
 
 The BPS Small Research Grant conditions, eligibility, timetable and data-governance requirements should also be verified before the enabling study is described as funded or operational.  
+
 ---
 ## Links
 
