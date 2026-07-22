@@ -231,7 +231,7 @@ EVIDENCE AND DATA SOURCES
 scientific literature
 + matched task datasets
 + pain and affective-learning datasets
-+ clinical/service documents
++ clinical and service documents
 + local pilot telemetry
 + lived-experience and stakeholder evidence
         ↓
@@ -242,44 +242,53 @@ preprocessing, permitted use and transportability
 PRIOR REGISTRY
 versioned parameter distributions
 + uncertainty
-+ task/population/delivery match
++ task, population and delivery match
 + discounting
 + sensitivity regimes
         ↓
-MODULAR MODEL LAYERS
+MODULAR MECHANISM-MODEL LAYERS
 observation and attention
 + content and affective modulation
-+ frame/context
++ frame and context
 + decision and evidence accumulation
 + learning and transfer
-+ population heterogeneity
++ prespecified population variation
 + intervention-response scenarios
         ↓
 SYNTHETIC EXPERIMENT ENGINE
 synthetic participants
 + task generators
-+ intervention curricula
-+ transfer tests
++ mechanism-targeted intervention curricula
++ protected transfer tests
 + delayed outcomes
 + missingness and data-quality models
         ↓
-DESIGN VALIDATION
+DESIGN AND MECHANISM VALIDATION
 parameter recovery
 + model recovery
 + simulation-based calibration
 + predictive checks
++ model discrimination
 + power and precision
-+ information value
++ expected information value
         ↓
-PAIN-SPECIFIC MECHANISM-MAPPING & PRODUCT-CALIBRATION
-calibration of distributions, task relations,
-reliability, acceptability and clinical relevance
+PAIN-SPECIFIC MECHANISM MAPPING
+AND PRODUCT CALIBRATION
+calibration of prespecified mechanism parameters
++ task and measure reliability
++ relationships with pain-related functioning
++ acceptability and burden
++ out-of-sample predictive validity
++ suitability of mechanism-targeted candidates
         ↓
-PROSPECTIVE CANDIDATE COMPARISON
-active control
+PROSPECTIVE CANDIDATE SELECTION
+AND LOCKED COMPARISON
+selected intervention configuration
++ mechanistic comparator
++ active control
 + protected transfer
 + delayed assessment
-+ functional signal
++ patient-relevant functional outcomes
         ↓
 EVIDENCE AND DECISION GATE
 advance / revise / retire
@@ -287,9 +296,11 @@ advance / revise / retire
 
 Three supporting engines operate across this architecture:
 
-1. **Intervention-development engine** — designs and compares mechanism-targeted protocols.
-2. **Psychometric-development engine** — develops reliable, efficient and interpretable measures.
-3. **Pathway and implementation-intelligence engine** — places the intervention within a defined clinical pathway and identifies practical adoption constraints.
+1. **Intervention-development engine** — designs, simulates and compares prespecified mechanism-targeted protocols, and supports prospective selection of the intervention configuration, mechanistic comparator and active control.
+2. **Psychometric-development engine** — develops reliable, efficient and interpretable mechanism-sensitive measures, protected-transfer outcomes and functional assessment tools.
+3. **Pathway and implementation-intelligence engine** — places the intervention within a defined clinical pathway and identifies intended users, clinical boundaries, delivery requirements and practical adoption constraints.
+
+The architecture is explicitly product-directed. Mechanism mapping is used to calibrate the measurement system, distinguish prespecified competing explanations and select the intervention configuration. It is not intended as an open-ended investigation of the mechanisms of chronic primary pain.
 
 ---
 
@@ -1475,7 +1486,7 @@ Deliverables:
 
 To prevent over-engineering, the minimum viable technical scope should include:
 
-1. prone imary clinical product for chronic primary pain;
+1. one primary clinical product for chronic primary pain;
 2. one defined intended-use and pathway position;
 3. one primary cognitive-affective mechanism chain;
 4. a small number of prespecified rival models;
