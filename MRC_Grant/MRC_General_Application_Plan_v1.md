@@ -539,9 +539,9 @@ Outputs:
 * patient and practitioner interfaces at prototype level;
 * technical, accessibility and data-governance documentation.
 
-## Aim 4: Conduct pain-specific product calibration and prospective candidate selection
+## Aim 4: Conduct pain-specific mechanism mapping, product calibration and prospective candidate selection
 
-Evaluate the reliability, acceptability, parameter recoverability and predictive validity of a small prespecified set of pain-specific measures, models and intervention candidates, and prospectively select the configuration that should enter proof-of-concept testing.
+Evaluate the reliability, acceptability, parameter recoverability and predictive validity of a small prespecified set of pain-specific mechanism models, measures and intervention candidates, and prospectively select the configuration that should enter proof-of-concept testing.
 
 Collect dense behavioural, functional, usability and acceptability data from adults with chronic primary pain to estimate:
 
@@ -738,28 +738,29 @@ A separate technical appendix will describe the computational architecture, assu
 
 > A functioning, versioned digital intervention prototype ready for mechanism-mapping and proof-of-concept research.
 
-## WP4 — Pain-specific product calibration and prospective candidate selection
+## WP4 — Pain-specific mechanism mapping, product calibration and prospective candidate selection
 
 **Lead:** KCL research team with the clinical recruitment partner and quantitative lead.
 
 ### Activities
 
 * recruit an adult chronic-primary-pain sample;
-* administer the prespecified component tasks and relevant psychological and functional measures;
+* administer prespecified mechanism-sensitive tasks and relevant psychological and functional measures;
 * assess task reliability, validity, burden and device effects;
-* fit and compare the prespecified computational models;
+* fit and compare prespecified computational models of attention, appraisal, uncertainty, evidence weighting, avoidance and updating;
 * update pain-specific parameter distributions;
-* test out-of-sample predictions;
-* compare prespecified cognitive-affective intervention targets;
-* evaluate prespecified sources of variation relevant to calibration and candidate selection;
-* select the intervention configuration and comparator set prospectively;
+* test parameter recovery, model recovery and out-of-sample predictions;
+* evaluate relationships between prespecified mechanisms and pain interference, activity engagement and self-management;
+* compare prespecified mechanism-targeted intervention candidates;
+* evaluate prespecified variation in mechanism parameters and candidate response profiles;
+* prospectively select the intervention configuration, mechanistic comparator and active control;
 * refine the prototype and proof-of-concept design.
 
 The measurement and analysis procedures may draw on general lessons from the mathematics-anxiety enabling study, including trial instrumentation, learning-curve estimation, transfer-cost modelling and delayed-probe scheduling. Pain-specific validity will be established independently.
 
 ### Key output
 
-> Human-calibrated pain models and a prospectively locked intervention configuration and comparator set for proof-of-concept testing.
+> Human-calibrated pain-specific mechanism models and a prospectively locked intervention configuration, mechanistic comparator and active control for proof-of-concept testing. Mechanism mapping is the means of selecting and calibrating the clinical product, not an independent exploratory research programme.
 
 ## WP5 — Early proof-of-concept study
 
