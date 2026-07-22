@@ -7,14 +7,15 @@
 
 # 1. Proposed project
 
-The project will establish proof of concept for an **AI-assisted, mechanism-led digital cognitive-affective intervention for chronic primary pain**, while evaluating a computational research tool designed to reduce uncertainty and improve efficiency during intervention selection and optimisation.
+The project will establish proof of concept for a computationally guided, mechanism-led digital cognitive-affective intervention for chronic primary pain. The intervention will be developed using the HRP Transfer Lab, an enabling computational research environment designed to reduce uncertainty and improve efficiency during intervention selection, optimisation and early evaluation.
 
-The project has two integrated products:
+The project has one primary clinical product:
 
-1. a pain-specific clinical intervention; and
-2. a generalisable computational intervention-development technology.
+1. a pain-specific digital cognitive-affective intervention for chronic primary pain.
 
-These will be supported by a focused service-pathway and implementation-intelligence strand. Chronic primary pain will provide the first full clinical instantiation and prospective evaluation of the reusable architecture.
+The **HRP Transfer Lab** will serve as the enabling computational development technology used to select, optimise and evaluate the intervention components. A focused service-pathway and implementation-intelligence strand will support clinical placement, implementation planning and the route to patient benefit.
+
+Chronic primary pain will provide the first full clinical instantiation and prospective evaluation of the reusable development architecture.
 
 ## 1.1 Clinical product
 
@@ -160,6 +161,8 @@ first implemented in an accessible, lower-risk population
 ```
 
 The enabling study contributes methodological and platform-level learning. It does not provide direct evidence for pain-specific mechanisms, clinical efficacy or functional benefit. Those questions will be addressed prospectively within the chronic-primary-pain programme.
+
+The MRC-funded product is the chronic-primary-pain intervention. The HRP Transfer Lab is the enabling development technology, the pathway strand supports translation and implementation, and the BPS study provides separate methodological calibration. Success of the MRC programme will ultimately be judged by whether it produces a clinically credible pain intervention and a justified advance, revise or retire decision.
 
 ---
 
@@ -361,6 +364,16 @@ The project will evaluate whether the computational workflow improves early inte
 * correspondence between prospective computational predictions and observed human outcomes;
 * cost of reaching an advance, revise or retire decision.
 
+The predefined conventional reference workflow is specified in the Computational and AI Technical Appendix. It comprises:
+
+manual evidence review
+→ narrative candidate selection
+→ fixed task design
+→ conventional pilot
+→ post-hoc transfer assessment
+
+Before the efficiency evaluation begins, the team will specify whether each indicator will be assessed through a parallel comparison, a prospectively documented benchmark process or an appropriately matched historical development case.
+
 ## 3.6 Existing assets and preliminary enabling evidence
 
 | Evidence source                     | Current asset                                                                                    | Contribution                                                                      |
@@ -483,7 +496,7 @@ Develop and evaluate the reusable HRP Transfer Lab components required to:
 * compare intervention candidates under explicit assumptions;
 * generate prospective predictions for human calibration and proof-of-concept studies.
 
-Where ethically and legally permissible, and if the proposed BPS mathematics-anxiety study proceeds, its design and resulting data may provide an initial cross-domain calibration case for the reusable transfer-analysis pipeline. This work may test whether the computational system can recover learning trajectories, directional-transfer costs, lapse parameters and delayed-retention patterns from a separate enabling study.
+Where available, the BPS enabling study may contribute methodological calibration in accordance with Sections 1.4–1.5. It will not provide pain-specific clinical evidence.
 
 Pain-specific priors, models and clinical interpretations will nevertheless be developed independently from chronic-pain evidence and human calibration data.
 
@@ -528,20 +541,22 @@ Outputs:
 * patient and practitioner interfaces at prototype level;
 * technical, accessibility and data-governance documentation.
 
-## Aim 4: Conduct a human mechanism-mapping and calibration study
+## Aim 4: Conduct pain-specific product calibration and prospective candidate selection
+
+Evaluate the reliability, acceptability, parameter recoverability and predictive validity of a small prespecified set of pain-specific measures, models and intervention candidates, and prospectively select the configuration that should enter proof-of-concept testing.
 
 Collect dense behavioural, functional, usability and acceptability data from adults with chronic primary pain to estimate:
 
-* task feasibility and burden;
+* task feasibility and participant burden;
 * baseline parameter distributions;
-* relationships among attention, appraisal, uncertainty, avoidance and pain interference;
 * task and measure reliability;
-* participant heterogeneity;
-* computational-model calibration;
-* candidate intervention targets;
-* clinically meaningful variation in functional outcomes.
+* model and parameter recoverability;
+* relationships between prespecified candidate mechanisms and pain-related functioning;
+* prespecified sources of variation relevant to model calibration and candidate selection;
+* predictive performance on held-out observations;
+* suitability of the candidate intervention configurations for proof-of-concept testing.
 
-This study will calibrate the computational system and select intervention candidates. It will not be represented as an efficacy trial.
+This study will calibrate the computational system, compare prespecified intervention candidates and support prospective candidate selection. It will not be represented as an efficacy trial or as an open-ended investigation of chronic-pain mechanisms.
 
 Outputs:
 
@@ -549,8 +564,8 @@ Outputs:
 * reliability and measurement-quality report;
 * updated parameter priors;
 * out-of-sample model checks;
-* identified candidate mechanisms;
-* locked shortlist of intervention configurations;
+* prospectively selected intervention mechanism and configuration;
+* prospectively locked intervention configuration and comparator set;
 * refined proof-of-concept study design.
 
 ## Aim 5: Conduct an early proof-of-concept comparison
@@ -680,14 +695,15 @@ Those capabilities belong to a wider Intervention-Intelligence Platform model an
 * generate prospective human-study predictions;
 * document the reusable architecture and indication-specific adaptation requirements.
 
-Where the proposed BPS mathematics-anxiety study proceeds, WP2 will also:
+Where available, the proposed BPS mathematics-anxiety study may provide a separate methodological calibration case for the transfer-analysis pipeline, in accordance with Sections 1.4–1.5. Its design and appropriately governed outputs may be used to:
 
-* reproduce the enabling-study design within the simulation framework;
-* test prospective recovery of the proposed directional-transfer effect;
+* reproduce a prespecified digital intervention study within the simulation framework;
+* test recovery of learning trajectories, directional-transfer costs, lapse parameters and delayed-retention patterns;
 * compare alternative models of absolute and relational task learning;
-* estimate plausible learning, lapse, transfer and retention distributions;
-* incorporate appropriately governed human data when available;
-* document which computational components are reusable and which require pain-specific replacement.
+* evaluate trial instrumentation, timing-quality controls and transfer-sensitive analysis procedures;
+* assess whether the computational workflow can identify uninformative conditions or improve task scheduling.
+
+The BPS study will not determine the pain-specific intervention content, parameter priors or clinical interpretation. All pain-related models, tasks, candidate components and progression decisions will be developed and validated independently using chronic-pain evidence and pain-specific human calibration data.
 
 ### Key outputs
 
@@ -724,27 +740,28 @@ A separate technical appendix will describe the computational architecture, assu
 
 > A functioning, versioned digital intervention prototype ready for mechanism-mapping and proof-of-concept research.
 
-## WP4 — Mechanism mapping and computational-model calibration
+## WP4 — Pain-specific product calibration and prospective candidate selection
 
 **Lead:** KCL research team with the clinical recruitment partner and quantitative lead.
 
 ### Activities
 
 * recruit an adult chronic-primary-pain sample;
-* administer the component tasks and relevant psychological and functional measures;
+* administer the prespecified component tasks and relevant psychological and functional measures;
 * assess task reliability, validity, burden and device effects;
-* fit competing computational models;
-* update pain-specific prior distributions;
+* fit and compare the prespecified computational models;
+* update pain-specific parameter distributions;
 * test out-of-sample predictions;
-* identify candidate cognitive-affective intervention targets;
-* examine participant heterogeneity and potential response profiles;
+* compare prespecified cognitive-affective intervention targets;
+* evaluate prespecified sources of variation relevant to calibration and candidate selection;
+* select the intervention configuration and comparator set prospectively;
 * refine the prototype and proof-of-concept design.
 
 The measurement and analysis procedures may draw on general lessons from the mathematics-anxiety enabling study, including trial instrumentation, learning-curve estimation, transfer-cost modelling and delayed-probe scheduling. Pain-specific validity will be established independently.
 
 ### Key output
 
-> Human-calibrated pain models and a prospectively locked shortlist of intervention candidates.
+> Human-calibrated pain models and a prospectively locked intervention configuration and comparator set for proof-of-concept testing.
 
 ## WP5 — Early proof-of-concept study
 
@@ -803,32 +820,36 @@ The project will use timed progression milestones with prespecified advance, rev
 * the core digital task sequence is functioning reliably;
 * the intervention has a clinically acceptable safety and escalation protocol;
 * model- and parameter-recovery performance meets prespecified parameter-specific thresholds;
-* at least two competing cognitive-affective mechanisms can be distinguished under the proposed experimental design;
-* the statistical design supports an informative chronic-primary-pain calibration study;
-* relevant IP, data access and governance issues have credible routes to resolution;
-* the generic transfer-analysis pipeline has been demonstrated using the proposed mathematics-anxiety enabling-study design or an equivalent simulated design.
+* at least two prespecified competing cognitive-affective models can be distinguished under the proposed experimental design;
+* the statistical design supports an informative chronic-primary-pain product-calibration study;
+* relevant IP, data-access and governance issues have credible routes to resolution;
+* the generic transfer-analysis pipeline has been demonstrated using the mathematics-anxiety enabling-study design, an equivalent simulated design or another appropriate calibration case.
 
-Where the BPS study proceeds and appropriate data are available, the project will also assess whether the computational pipeline can produce interpretable estimates of:
+Where the proposed BPS mathematics-anxiety study proceeds and appropriately governed data become available, it may provide a separate methodological calibration case for assessing whether the computational pipeline can produce interpretable estimates of:
 
 * learning trajectories;
 * directional-transfer costs;
 * lapse and response-variability parameters;
-* delayed recovery;
-* uncertainty around individual differences.
+* delayed-retention and recovery patterns;
+* uncertainty around individual differences;
+* the informativeness of alternative task conditions and schedules.
 
-A positive transfer effect in the mathematics-anxiety study will not be required for progression. A null or ambiguous result may still support development if it identifies measurement weaknesses, rejects an implausible model or generates a clear revise-or-retire decision.
+Progression will not depend on the BPS study being funded, completed or producing a positive transfer effect. A null or ambiguous finding may still provide useful methodological information where it identifies measurement weaknesses, rejects an implausible model, reveals uninformative conditions or supports a clear revise-or-retire decision.
+
+The BPS study will not determine the pain-specific intervention content, clinical interpretation or progression decision. Pain-specific readiness will be established through chronic-pain evidence, clinical and lived-experience input, prototype development and the planned pain-specific calibration work.
 
 ### Revise or stop criteria
 
 * the target constructs cannot be measured with acceptable reliability;
-* candidate mechanisms remain non-identifiable under feasible study conditions;
+* the prespecified candidate models remain non-identifiable under feasible study conditions;
 * the prototype produces unacceptable cognitive, emotional or practical burden;
 * lived-experience contributors judge the intervention rationale or delivery format to be unacceptable;
 * no credible and clinically appropriate pathway position can be identified;
 * the clinical recruitment or delivery pathway is unavailable;
-* the computational workflow cannot generate interpretable or prospectively testable predictions.
+* the computational workflow cannot generate interpretable or prospectively testable predictions;
+* the pain-specific development programme cannot proceed without relying on unsupported cross-domain assumptions from the enabling study.
 
-## Milestone 2 — Human calibration and candidate lock
+## Milestone 2 — Pain-specific product calibration and candidate lock
 
 **Proposed timing:** completion of WP4.
 
@@ -837,31 +858,36 @@ A positive transfer effect in the mathematics-anxiety study will not be required
 * recruitment and retention are feasible;
 * the core pain-specific task measures meet predefined reliability and data-quality thresholds;
 * device and timing effects are sufficiently controlled or modelled;
-* competing models reproduce key behavioural patterns and pass prespecified out-of-sample checks;
-* at least one potentially modifiable mechanism is associated with pain interference, activity engagement or another relevant functional outcome;
-* a candidate intervention configuration and comparator can be selected prospectively;
-* the selected components are distinguishable from generic engagement or repeated-practice effects;
+* the prespecified competing models reproduce key behavioural patterns and pass prespecified out-of-sample checks;
+* at least one prespecified candidate mechanism shows sufficient measurement quality, modifiability and functional relevance to justify intervention testing;
+* the intervention configuration, mechanistic comparator and active control can be selected prospectively using the prespecified decision framework;
+* the selected components are distinguishable from generic engagement, expectancy and repeated-practice effects;
+* the selection decision can be justified without open-ended post-hoc exploration or reliance on an unprespecified subgroup profile;
 * no material safety, burden or acceptability problem has been identified.
 
-General lessons from the BPS enabling study may inform the calibration process, including:
+Where available, methodological lessons from the BPS enabling study may inform:
 
 * trial instrumentation;
 * learning-curve estimation;
 * transfer-cost modelling;
 * adaptive scheduling;
 * delayed-probe timing;
-* treatment of browser and device variability.
+* browser and device-quality controls;
+* treatment of lapse and response-variability parameters.
 
-Pain-specific validity, however, will be established independently in adults with chronic primary pain.
+These lessons will concern the general transfer-analysis and digital-delivery methodology only. Pain-specific measures, parameter distributions, model interpretations, intervention candidates and progression decisions will be established independently in adults with chronic primary pain.
 
 ### Revise or stop criteria
 
 * the models fail prespecified out-of-sample predictive checks;
 * the tasks are dominated by floor, ceiling, comprehension or device-timing problems;
-* the proposed mechanisms show no meaningful association with relevant pain or functional outcomes;
-* the selected components cannot be distinguished from non-specific digital engagement;
-* no intervention configuration can be selected without post hoc optimisation;
-* recruitment, retention, safety or acceptability are inadequate for proof-of-concept testing.
+* none of the prespecified candidate mechanisms shows sufficient measurement quality, modifiability or functional relevance to justify intervention testing;
+* the selected components cannot be distinguished from non-specific digital engagement, expectancy or repeated practice;
+* no intervention configuration and comparator set can be selected without post-hoc optimisation;
+* the findings depend primarily on an unprespecified participant subgroup or response profile;
+* recruitment, retention, safety or acceptability are inadequate for proof-of-concept testing;
+* pain-specific validity cannot be established independently of the mathematics-anxiety enabling study.
+
 
 ## Milestone 3 — Early proof-of-concept endpoint
 
@@ -927,39 +953,82 @@ Detailed monetary estimates should be developed jointly with King’s pre-award 
 
 # 10. Evidence required before submission
 
-The principal readiness risk is that the project may be judged too early for MRC Proof of Concept. The pre-submission package must therefore demonstrate the current development stage clearly and distinguish established evidence from planned work.
+The principal readiness risk is that the project may be judged too early for MRC Proof of Concept. The pre-submission package must therefore demonstrate the current development stage clearly, distinguish established evidence from planned work and show that the chronic-primary-pain product is sufficiently developed to justify a full translational programme.
 
-| Requirement                     | Minimum position before submission                                                                                                           |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Working prototype**           | At least one intervention component running reliably with trial-level logging                                                                |
-| **Computational demonstration** | A parameter- and model-recovery report using simulated data and, where available, human calibration data                                     |
-| **Enabling transfer study**     | BPS proposal submitted or funded; protocol and analysis plan available; digital task operational; any findings accurately labelled by status |
-| **Technical human evidence**    | Usability or calibration data, preferably including mechanism-sensitive and near-transfer measures                                           |
-| **Clinical specification**      | Defined chronic-primary-pain population, intended use, intervention target and pathway position                                              |
-| **Pathway placement**           | Focused pathway map, proposed entry point, exclusions, escalation and oversight model                                                        |
-| **Clinical partnership**        | Substantive involvement from a pain clinician or NHS pain service                                                                            |
-| **PPI**                         | Initial co-design completed, with documented changes to the mechanism narrative, tasks, outcomes or delivery model                           |
-| **Recruitment**                 | Credible participant-identification and recruitment route                                                                                    |
-| **Outcomes**                    | Prespecified mechanism, protected-transfer, functional and delayed measures                                                                  |
-| **IP**                          | Background-IP declaration and draft foreground-IP and access framework                                                                       |
-| **Development route**           | Defined next-stage clinical, NHS, regulatory and commercial pathway                                                                          |
+| Requirement                            | Minimum position before submission                                                                                                                                                                                             |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Working pain-relevant prototype**    | At least one pain-relevant intervention component running reliably with trial-level behavioural and timing instrumentation                                                                                                     |
+| **Computational demonstration**        | A parameter-recovery and model-recovery report using simulated data and, where available, appropriately governed human calibration data                                                                                        |
+| **Enabling transfer platform**         | Digital transfer task operational; protocol and statistical-analysis plan complete; trial logging, timing controls and data-export procedures tested                                                                           |
+| **BPS award status**                   | Reported separately and accurately as proposed, submitted, funded, recruiting, underway or completed                                                                                                                           |
+| **Pain-specific preliminary evidence** | Preliminary evidence concerning the usability, acceptability, burden, measurement quality or model recoverability of at least one pain-relevant component in adults with chronic primary pain or a closely relevant population |
+| **Technical human evidence**           | Human usability or calibration data, preferably including mechanism-sensitive, protected-transfer or near-transfer measures                                                                                                    |
+| **Clinical specification**             | Defined chronic-primary-pain population, intended use, intervention target and proposed pathway position                                                                                                                       |
+| **Pathway placement**                  | Focused pathway map, proposed entry point, access route, exclusions, escalation procedures and practitioner-oversight model                                                                                                    |
+| **Clinical partnership**               | Substantive involvement from a pain clinician, clinical pain psychologist or NHS pain service                                                                                                                                  |
+| **PPI**                                | Initial co-design completed, with documented changes to the mechanism narrative, intervention components, outcomes or delivery model                                                                                           |
+| **Recruitment**                        | Credible participant-identification, screening and recruitment route                                                                                                                                                           |
+| **Outcomes**                           | Prespecified mechanism, protected-transfer, functional and delayed outcomes                                                                                                                                                    |
+| **Statistical design**                 | Prespecified estimands, active-control or comparator strategy, analysis framework and progression criteria                                                                                                                     |
+| **IP**                                 | Background-IP declaration and draft foreground-IP, access and exploitation framework                                                                                                                                           |
+| **Development route**                  | Defined next-stage clinical, NHS, regulatory, health-economic and commercial pathway                                                                                                                                           |
 
-The BPS study may contribute evidence concerning:
+The proposed BPS mathematics-anxiety study may contribute methodological evidence concerning:
 
-* digital delivery;
+* remote digital delivery;
 * task comprehension;
-* adherence;
-* timing quality;
+* adherence and retention;
+* trial-level instrumentation;
+* browser and device timing quality;
 * transfer-sensitive measurement;
 * learning-curve variability;
+* directional-transfer modelling;
 * delayed follow-up;
+* parameter and model recovery;
 * computational calibration.
 
-It will not be presented as evidence for pain-specific clinical validity or efficacy.
+The BPS study will be treated as a separate methodological calibration case. It will not be presented as evidence for:
 
-If the BPS study has not completed by submission, the application will state its status accurately—for example, proposed, submitted, funded, recruiting or underway. Only verified results will be presented as preliminary data.
+* pain-specific clinical validity;
+* pain-specific parameter distributions;
+* acceptability in people living with chronic primary pain;
+* efficacy or functional benefit;
+* the clinical or pathway suitability of the pain intervention.
 
-A formal readiness review will determine whether the evidence package supports submission to the current MRC round or whether further de-risking work is required.
+Progression to an MRC Proof of Concept submission will not depend on the BPS study being funded, completed or producing a positive transfer effect. If it proceeds, only verified findings will be presented, and its status will be described accurately at the point of submission.
+
+The central readiness decision will depend on the strength of the pain-specific product case. In particular, the team must be able to demonstrate:
+
+```text
+clinically defined pain product
++ pain-relevant working prototype
++ substantive clinical partnership
++ initial pain-specific PPI
++ credible recruitment pathway
++ computational and measurement demonstration
++ preliminary pain-relevant human evidence
++ prospectively defined proof-of-concept design
+```
+
+If meaningful pain-specific preliminary evidence cannot be generated by the readiness gate, the default route will be:
+
+```text
+one clearly defined high-risk development gap
+→ MRC Impact Acceleration Award
+
+or
+
+additional pain-specific development and calibration
+→ later MRC Proof of Concept round
+```
+
+The team will not submit a full Proof of Concept application solely on the basis of the BPS enabling study, generic digital infrastructure or simulated evidence.
+
+A formal readiness review will determine whether:
+
+1. the complete evidence package supports submission to the current MRC Proof of Concept round;
+2. one critical pain-specific uncertainty should be addressed through an MRC Impact Acceleration Award; or
+3. further clinical, technical, PPI or calibration work is required before a later Proof of Concept submission.
 
 ---
 
@@ -1231,36 +1300,51 @@ Any later indication will require a separate clinical product, evidence base, in
 
 The project will not assume that computational modelling, AI-assisted evidence synthesis or simulated experiments necessarily improve development efficiency.
 
-It will prospectively evaluate whether the HRP Transfer Lab produces measurable advantages relative to a predefined conventional reference workflow.
+It will prospectively evaluate the HRP Transfer Lab against the predefined conventional reference workflow described in the Computational and AI Technical Appendix. The evaluation design will specify whether individual indicators are assessed through a parallel comparison, a prospectively documented benchmark process or an appropriately matched historical development case.
+
+```text
+manual evidence review
+→ narrative candidate selection
+→ fixed task and protocol design
+→ conventional pilot study
+→ post-hoc transfer assessment
+```
+
+The comparison will assess whether the computational workflow produces measurable improvements in the informativeness, reproducibility and resource efficiency of early intervention development. Before evaluation begins, the team will specify whether each indicator will be assessed through a parallel comparison, a prospectively documented benchmark process, structured expert review or an appropriately matched historical development case.
 
 Candidate indicators include:
 
-* time from evidence synthesis to a locked intervention protocol;
-* number of candidate protocols rejected before patient testing;
-* number of human trials or participants required per retained candidate;
+* time from evidence synthesis to a prospectively locked intervention protocol;
+* number of candidate protocols retired before patient testing;
+* number of human studies or participants required per retained candidate;
 * information obtained per participant-minute;
-* accuracy of parameter and model recovery;
+* accuracy and precision of parameter and model recovery;
 * accuracy and calibration of prospective human predictions;
-* frequency of floor, ceiling and non-identifiability problems;
-* number of protocol revisions required after human calibration;
-* cost of reaching an advance, revise or retire decision;
-* number of implementation uncertainties resolved before larger trials;
-* reproducibility and traceability of the development process.
+* frequency of avoidable floor, ceiling, convergence and non-identifiability problems;
+* number of protocol revisions required following human calibration;
+* cost and time required to reach an advance, revise or retire decision;
+* number of implementation uncertainties resolved before larger clinical evaluation;
+* reproducibility, source traceability and auditability of the development process.
 
-Where the BPS enabling study proceeds, it may provide an initial external case for evaluating whether the computational pipeline can:
+Where the proposed BPS mathematics-anxiety study proceeds and appropriately governed outputs become available, it may provide a separate methodological calibration case for the general computational pipeline. Its design and data may be used to assess whether the pipeline can:
 
-* reproduce a prespecified study design;
-* recover simulated directional-transfer effects;
-* estimate learning and lapse parameters;
-* identify uninformative conditions;
-* predict plausible human variability;
-* recommend more informative task schedules.
+* reproduce a prespecified digital-intervention study design;
+* recover learning trajectories and simulated directional-transfer effects;
+* estimate lapse, response-variability, transfer-cost and delayed-retention parameters;
+* identify uninformative or poorly identifiable task conditions;
+* predict plausible patterns of human variability;
+* compare alternative task schedules and trial-allocation strategies;
+* generate prospective predictions that can be compared with observed study outcomes.
 
-Any BPS-study analysis will be reported as methodological calibration rather than evidence of efficiency in chronic-pain intervention development.
+Progression of the chronic-primary-pain programme will not depend on the BPS study being funded, completed or producing a positive transfer effect. A null or ambiguous BPS result may still provide useful methodological evidence where it identifies measurement weaknesses, model confusion, uninformative conditions or limitations in the computational workflow.
+
+Any analysis of the BPS study will be reported as **cross-domain methodological calibration**. It will not be treated as evidence that the HRP Transfer Lab improves the efficiency of chronic-pain intervention development, nor as evidence for the clinical validity or efficacy of the pain intervention.
+
+The primary efficiency evaluation will therefore be conducted within the pain-specific development programme, using prospectively defined indicators and documented comparisons between predicted and observed development outcomes.
 
 The intended claim is:
 
-> The project will test whether computational screening and simulation-based experimental design make early cognitive-affective intervention development more informative, reproducible and resource-efficient than a predefined conventional reference workflow.
+> The project will test whether computational screening and simulation-based experimental design make early pain-specific cognitive-affective intervention development more informative, reproducible and resource-efficient than a predefined conventional reference workflow.
 
 ---
 
@@ -1396,51 +1480,158 @@ Because MRC does not normally permit resubmission of the same or a substantially
 
 ---
 
-# 19. Contingency and onward funding strategy
+# 19. Staged and contingency funding strategy
 
-The MRC Proof of Concept scheme will remain the primary route when the pain prototype, clinical partnership, computational evidence and preliminary human evidence are sufficiently mature.
+# 19. Staged and contingency funding strategy
 
-The proposed BPS Small Research Grant is a complementary enabling award rather than an alternative source of funding for the pain programme. It can de-risk the general transfer methodology but cannot fund the clinical development work required for chronic primary pain.
+The MRC Proof of Concept scheme will remain the primary funding route when the chronic-primary-pain prototype, clinical partnership, computational demonstration, PPI, recruitment pathway and preliminary pain-relevant human evidence are sufficiently mature.
 
-Other funding routes will be considered at the September readiness gate.
+The proposed BPS Small Research Grant is a separate enabling award. It may de-risk the general transfer-analysis methodology, digital delivery, trial instrumentation and computational-calibration workflow, but it cannot substitute for pain-specific product development, clinical partnership, PPI or preliminary evidence in adults with chronic primary pain.
 
-| Funding route                                     | Best use in this programme                                                                                                        | Timing or scale                                                                      | Strategic judgement                                                                 |
-| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| **MRC Proof of Concept: Stage One**               | Integrated computational development engine, pain-specific digital intervention and early clinical proof of concept               | Closes **18 November 2026**; no formal duration or funding ceiling; normally 80% FEC | Primary target when the full readiness package is credible                          |
-| **BPS Small Research Grant**                      | Mathematics-anxiety enabling study, digital-delivery test and initial transfer-method calibration                                 | Requested budget approximately **£6,000**                                            | Complementary methodological precursor; not a substitute for pain-specific evidence |
-| **MRC Impact Acceleration Award**                 | One high-risk development step, such as model validation, prototype de-risking, psychometric calibration or preliminary pain data | **£50,000–£300,000**; closes **11 November 2026**                                    | Best smaller route where one major uncertainty prevents a full PoC bid              |
-| **NIHR Programme Development Grant**              | PPI, pathway work, co-design, feasibility preparation and development of a later programme grant                                  | Up to **£250,000** over **12–24 months**                                             | Best where substantial preparatory clinical or implementation work remains          |
-| **NIHR Research for Patient Benefit**             | Focused NHS feasibility or early patient-benefit study in chronic pain                                                            | Funding tiers up to approximately **£300,000–£500,000**, depending on study type     | Strong alternative once a focused NHS study and eligible host arrangement are ready |
-| **NIHR Health and Social Care Delivery Research** | Pain-pathway bottlenecks, service integration, workflow and adoption                                                              | Scheme-dependent                                                                     | Appropriate where service delivery becomes the primary research question            |
-| **MRC Experimental Medicine**                     | Focused human study testing a precise cognitive-affective pain mechanism                                                          | Scheme-dependent                                                                     | Strong mechanistic alternative where product development remains premature          |
-| **Later NIHR EME, HTA, i4i or PGfAR routes**      | Efficacy, technology assessment, implementation, product development and multisite programmes                                     | Future follow-on routes                                                              | Appropriate after successful proof of concept                                       |
+The funding strategy will therefore follow the principle:
 
-## Funding-portfolio principle
+> **Dual preparation, single submission.**
+
+The team may initially prepare the MRC Proof of Concept route and its primary backup in parallel. A late-August route-preparation review and an early-September submission gate will determine which single principal route should be pursued.
+
+## 19.1 Primary route: MRC Proof of Concept
+
+The full MRC Proof of Concept application will be pursued where the readiness package demonstrates:
+
+```text
+defined pain-specific clinical product
++ pain-relevant working prototype
++ substantive clinical partnership
++ initial pain-specific PPI
++ credible recruitment and delivery pathway
++ computational and measurement demonstration
++ preliminary pain-relevant human evidence
++ prospectively defined proof-of-concept design
+```
+
+The Proof of Concept programme would support the integrated development and early evaluation of:
+
+* the pain-specific digital intervention;
+* the enabling HRP Transfer Lab methodology;
+* pain-specific product calibration and candidate selection;
+* an active-controlled proof-of-concept comparison;
+* protected and delayed transfer outcomes;
+* functional outcomes;
+* pathway placement and the route to patient benefit.
+
+A later MRC Proof of Concept round will be preferred over a premature submission where the full readiness threshold has not been met.
+
+## 19.2 Primary backup route: MRC Impact Acceleration Award
+
+If the full Proof of Concept readiness threshold is not met, the primary backup route will be an MRC Impact Acceleration Award focused on **one critical pain-specific development gap**.
+
+The provisional single high-risk development step is:
+
+> **Early clinical validation of one pain-specific cognitive-affective intervention module and its associated measurement model in adults with chronic primary pain.**
+
+The award would determine whether the selected module:
+
+* can be delivered reliably;
+* is acceptable and sufficiently low burden;
+* produces interpretable behavioural data;
+* supports adequate parameter and model recovery;
+* engages the prespecified target sufficiently to justify a later Proof of Concept programme.
+
+The Impact Acceleration award would not attempt to fund:
+
+* the complete multi-component intervention;
+* the full HRP Transfer Lab architecture;
+* a broad mechanism-discovery programme;
+* comprehensive pathway implementation;
+* a definitive proof-of-concept comparison.
+
+Its endpoint would be a clear **advance, revise or retire** decision and the critical pain-specific evidence required for a later MRC Proof of Concept application.
+
+The exact development step will be selected following initial prototype work and clinical consultation. Candidate options include:
+
+* early testing of a pain-appraisal updating module;
+* validation of a pain-specific measurement and computational model; or
+* preliminary chronic-pain calibration of the adaptive evidence task.
+
+Only one of these development steps will be included in the Impact Acceleration application.
+
+## 19.3 Other conditional funding routes
+
+Other funding routes will be considered only where the project has evolved towards the specific purpose and eligibility requirements of the scheme.
+
+| Funding route                                     | Best use in this programme                                                                                                       | Timing or scale                                         | Strategic judgement                                                                                               |
+| ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **MRC Proof of Concept: Stage One**               | Integrated development of the pain-specific intervention, enabling computational methodology and early clinical proof of concept | Closes **18 November 2026**; normally funded at 80% FEC | Primary target when the complete readiness package is credible                                                    |
+| **MRC Impact Acceleration Award**                 | One clearly defined high-risk pain-specific development step that prevents progression to Proof of Concept                       | **£50,000–£300,000**; closes **11 November 2026**       | Primary backup where one major uncertainty remains                                                                |
+| **Later MRC Proof of Concept round**              | Full programme submitted after additional prototype, clinical, PPI or pain-specific calibration work                             | Later scheduled Stage One round                         | Preferable to submitting the full programme prematurely                                                           |
+| **BPS Small Research Grant**                      | Mathematics-anxiety enabling study, digital-delivery test and initial transfer-method calibration                                | Requested budget approximately **£6,000**               | Separate methodological precursor; not pain-specific evidence and not a substitute for the clinical programme     |
+| **NIHR Research for Patient Benefit**             | Focused NHS feasibility or early patient-benefit study in chronic primary pain                                                   | Scheme and funding tier dependent                       | Credible once an eligible NHS host, focused study and practical recruitment pathway are in place                  |
+| **NIHR Programme Development Grant**              | PPI, co-design, pathway work and preparatory research for a later Programme Grants for Applied Research application              | Up to **£250,000** over **12–24 months**                | Appropriate only where PGfAR is the intended onward route; not a generic de-risking award                         |
+| **MRC Experimental Medicine**                     | Focused human experiment testing a precise cognitive-affective pain mechanism                                                    | Scheme-dependent                                        | Appropriate where the primary objective becomes mechanistic human experimentation rather than product development |
+| **NIHR Health and Social Care Delivery Research** | Pain-pathway bottlenecks, service integration, workflow and adoption                                                             | Scheme-dependent                                        | Appropriate only where service delivery becomes the principal research question                                   |
+| **Later NIHR EME, HTA, i4i or PGfAR routes**      | Clinical efficacy, technology evaluation, implementation, product development or multisite programmes                            | Future follow-on routes                                 | Appropriate after successful early development and proof of concept                                               |
+
+## 19.4 Funding-portfolio principle
 
 ```text
 BPS Small Research Grant
-= enabling transfer-method study
+= separate enabling transfer-method study
 
 MRC Proof of Concept
-= integrated translational product and development engine
+= integrated pain-specific translational development programme
 
-MRC Impact Acceleration
-= one critical de-risking step
+MRC Impact Acceleration Award
+= one critical pain-specific de-risking step
 
-NIHR Programme Development Grant
-= preparatory programme development
+Later MRC Proof of Concept round
+= full programme after further readiness work
 
 NIHR Research for Patient Benefit
 = focused NHS feasibility or patient-benefit study
 
-NIHR HSDR
-= pathway and service-delivery research
+NIHR Programme Development Grant
+= preparation for a future PGfAR programme
 
 MRC Experimental Medicine
 = focused human mechanistic experiment
+
+NIHR HSDR
+= pathway and service-delivery research
+
+Later NIHR EME, HTA, i4i or PGfAR
+= larger efficacy, implementation or technology-evaluation programme
 ```
 
-Funding details and deadlines will be rechecked before the September decision.
+## 19.5 Route-selection principle
+
+The funding route will be selected according to the principal unresolved question.
+
+```text
+Full product and evidence package ready
+→ MRC Proof of Concept
+
+One critical pain-specific uncertainty remains
+→ MRC Impact Acceleration Award
+
+Additional pain-specific readiness work is achievable without an immediate application
+→ later MRC Proof of Concept round
+
+Focused NHS feasibility study is ready
+→ NIHR Research for Patient Benefit
+
+Preparatory programme work is required for a future PGfAR application
+→ NIHR Programme Development Grant
+
+Precise mechanistic human experiment is the primary objective
+→ MRC Experimental Medicine
+
+Service delivery or pathway redesign is the primary question
+→ NIHR HSDR
+```
+
+The status or outcome of the BPS enabling study may inform the route decision by contributing methodological evidence, but it will not determine whether the chronic-primary-pain programme is ready.
+
+All funding details, deadlines, institutional eligibility requirements and restrictions on overlapping or related applications will be rechecked with King’s pre-award and the relevant funders before the late-August route-preparation review.
 
 ---
 
