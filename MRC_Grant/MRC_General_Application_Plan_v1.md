@@ -634,14 +634,11 @@ Outputs will include:
 
 The project will not attempt:
 
-* comprehensive NHS pain-system modelling;
 * geospatial inequality mapping across all pain provision;
-* automated resource or treatment allocation;
-* integrated-care-board-wide optimisation;
-* multi-pathway service redesign;
+* automated resource or treatment identificatin;
 * automated clinical triage.
 
-Those capabilities belong to the wider Intervention-Intelligence Platform model and may be pursued in later applied or health-services research. The present purpose is to place one intervention credibly and safely within one chronic-primary-pain pathway.
+Those capabilities belong to a wider Intervention-Intelligence Platform model and may be pursued in later applied or health-services research. The present purpose is to place one intervention credibly and safely within one chronic-primary-pain pathway.
 
 # 7. Proposed work packages
 
