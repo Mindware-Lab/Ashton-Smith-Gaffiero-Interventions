@@ -1379,7 +1379,9 @@ Its status must be described precisely at the point of submission.
 
 # 17. Submission timetable
 
-The Stage One deadline is **18 November 2026 at 4.00 pm UK time**. King’s institutional deadlines will be earlier.
+The MRC Proof of Concept Stage One deadline is **18 November 2026 at 4.00 pm UK time**. King’s institutional deadlines will be earlier.
+
+The timetable supports parallel preparation of the MRC Proof of Concept application and its primary backup route until an early-September submission decision is made.
 
 ## July to early August
 
@@ -1393,53 +1395,111 @@ The Stage One deadline is **18 November 2026 at 4.00 pm UK time**. King’s inst
 * obtain relevant service specifications and pathway documents;
 * contact King’s pre-award, research-contracts and innovation teams;
 * initiate pain-specific PPI;
-* agree the general-plan and technical-appendix structure.
+* agree the General Application Plan and Technical Appendix structure.
 
 ## August
 
-* produce a two-page concept note;
+### Main Proof of Concept preparation
+
+* produce a two-page Proof of Concept concept note;
 * request an MRC remit discussion where appropriate;
 * define the target product profile;
 * develop the provisional pathway-placement model;
 * conduct focused pathway and implementation mapping;
-* prepare the computational and AI technical appendix;
-* conduct a minimum viable parameter- and model-recovery demonstration;
+* prepare the Computational and AI Technical Appendix;
+* conduct a minimum viable parameter-recovery and model-recovery demonstration;
 * reproduce the BPS directional-transfer design within the simulation framework;
 * run technical and usability checks on existing digital tasks;
 * begin IP and collaboration discussions;
 * secure quantitative and statistical input;
 * approach prospective clinical and project partners.
 
-## September
+### Backup-route preparation
+
+* define the single high-risk pain-specific development step for a potential MRC Impact Acceleration application;
+* specify its advance, revise and stop criteria;
+* prepare a two-page Impact Acceleration concept;
+* confirm whether King’s currently holds an MRC Impact Acceleration Account and whether an appropriate internal award route is available;
+* determine whether an external Impact Acceleration application would be justified;
+* determine whether an NIHR Programme Development Grant would genuinely support a future PGfAR programme;
+* prepare the Proof of Concept and Impact Acceleration options in parallel until the route-selection decision.
+
+## Late-August route-preparation review
+
+| Readiness position                                                      | Preparation decision                                                          |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| Full Proof of Concept readiness remains plausible                       | Continue full Proof of Concept preparation                                    |
+| One clearly defined high-risk pain-specific development gap remains     | Prioritise preparation of the MRC Impact Acceleration application             |
+| The main need is PPI, pathway development or programme preparation      | Assess Programme Development Grant only if PGfAR is the intended onward route |
+| A focused NHS feasibility or patient-benefit study is ready             | Assess NIHR Research for Patient Benefit with the proposed NHS host           |
+| A precise mechanistic human experiment has become the primary objective | Assess MRC Experimental Medicine                                              |
+| No route is sufficiently mature                                         | Continue development and target a later funding round                         |
+
+## Early September — submission-route gate
+
+The strategic principle will be:
+
+> **Dual preparation, single submission.**
+
+The team may prepare the Proof of Concept and primary backup route in parallel until this gate. It will then select one principal submission route and stop developing materially overlapping applications.
+
+The review will:
 
 * complete the initial clinical and pathway specification;
 * validate the proposed entry point, exclusions, escalation and oversight arrangements;
 * complete initial pain-specific PPI activities;
 * record the current status of the BPS enabling study;
 * incorporate any available technical, usability or calibration findings;
-* obtain substantive partner commitments;
-* lock provisional work packages, milestones and primary risks;
-* conduct the formal readiness review;
-* select the appropriate funding route.
+* assess whether sufficient pain-specific preliminary evidence is available;
+* obtain substantive clinical and project-partner commitments;
+* review the minimum viable parameter-recovery and model-recovery demonstration;
+* lock the provisional work packages, milestones and principal risks;
+* assess institutional eligibility, deadlines and restrictions for each route;
+* document the reasons for proceeding, deferring or selecting an alternative route.
 
-## October
+## September to October — selected-route development
+
+### If MRC Proof of Concept is selected
 
 * draft all UKRI Funding Service sections;
+* finalise the pain-specific product, pathway and proof-of-concept design;
+* complete the Computational and AI Technical Appendix;
 * finalise figures and supporting evidence;
 * include only verified BPS-study findings;
-* complete costing and NHS cost attribution work;
+* complete costing and NHS cost-attribution work;
 * complete project-partner letters;
 * finalise data-management, ethics, governance and regulatory plans;
 * undertake internal scientific, clinical, statistical and commercial review.
 
-## Early November
+### If MRC Impact Acceleration is selected
+
+* lock the single high-risk pain-specific development step;
+* remove activities not required to address that step;
+* specify the prototype, measurement model, data source and intended development endpoint;
+* finalise parameter-recovery, model-recovery and human calibration plans;
+* define the advance, revise and stop criteria;
+* explain why the proposed work is appropriate for the external award and, where relevant, why it is not being supported through an institutional MRC Impact Acceleration Account;
+* complete the costing, institutional approvals and supporting evidence required for the selected call;
+* specify the route from successful completion to a later MRC Proof of Concept application.
+
+### If another route is selected
+
+* restructure the project around the selected scheme’s remit, eligibility, assessment criteria and timetable;
+* remove work that is not directly required for that funding route;
+* confirm the intended host, partners, onward programme and submission deadline;
+* avoid submitting materially overlapping applications without institutional and funder advice.
+
+## Early November — finalisation of the selected MRC translation application
+
+Where either the MRC Proof of Concept or MRC Impact Acceleration route has been selected:
 
 * revise the application against reviewer-style critique;
 * update the status of the BPS enabling study;
 * obtain research-office and finance approval;
-* verify applicant eligibility, IP, team roles and partner classification;
-* check consistency of claims, milestones, outcomes and costs;
-* submit before the King’s institutional deadline.
+* verify applicant eligibility, IP, team roles and partner classifications;
+* confirm that the application matches the selected scheme’s scope;
+* check consistency across claims, milestones, outcomes, evidence and costs;
+* submit before the relevant King’s institutional deadline.
 
 ---
 
@@ -1476,11 +1536,9 @@ The following should therefore be prepared before or shortly after Stage One sub
 
 The option to defer to July 2027 may be used where additional preliminary data, clinical contracts, partner commitments or governance approvals are needed.
 
-Because MRC does not normally permit resubmission of the same or a substantially similar unsuccessful application unless invited, the readiness decision should favour a later round over a premature submission.
+MRC permits a maximum of two Stage One applications for the same project. Following an unsuccessful first application, MRC may invite one resubmission taking account of the feedback. The team should nevertheless favour a later initial submission over submitting before the readiness threshold is met.
 
 ---
-
-# 19. Staged and contingency funding strategy
 
 # 19. Staged and contingency funding strategy
 
@@ -1637,17 +1695,19 @@ All funding details, deadlines, institutional eligibility requirements and restr
 
 # 20. September funding-route decision gate
 
-The September review will produce a documented choice of funding route.
+A late-August route-preparation review and an early-September submission gate will produce a documented choice of funding route. The team will prepare the full Proof of Concept and primary Impact Acceleration options in parallel only until sufficient evidence is available to select one principal submission route.
 
-| Readiness position by early September                                                                                                                        | Recommended route                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-| Working pain prototype, successful model recovery, clinical pain partner, initial PPI, credible recruitment route and preliminary human calibration evidence | Proceed to **MRC Proof of Concept**                        |
-| Strong product and team, but one major technical or translational uncertainty remains                                                                        | Prioritise **MRC Impact Acceleration Award**               |
-| Substantial pathway mapping, PPI, co-design, measurement or feasibility work remains                                                                         | Prioritise **NIHR Programme Development Grant**            |
-| A focused NHS pain feasibility or early patient-benefit study is sufficiently specified                                                                      | Consider **NIHR Research for Patient Benefit**             |
-| Pathway bottlenecks, implementation or service redesign have become the primary question                                                                     | Consider **NIHR HSDR**                                     |
-| A precise cognitive-affective pain mechanism is ready for human testing, but product readiness remains limited                                               | Consider **MRC Experimental Medicine**                     |
-| Minimum readiness is not met                                                                                                                                 | Defer to a later MRC PoC round or another appropriate call |
+| Readiness position by early September                                                                                                                                                                           | Recommended route                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Working pain-relevant prototype, successful parameter and model recovery, substantive clinical pain partner, initial pain-specific PPI, credible recruitment route and preliminary pain-relevant human evidence | Proceed to **MRC Proof of Concept**                                                              |
+| One clearly defined pain-specific technical or translational uncertainty prevents full Proof of Concept readiness, but the underlying product, team and route to patient benefit are credible                   | Prioritise the **MRC Impact Acceleration Award** around that single high-risk development step   |
+| The complete programme is promising, but additional prototype, clinical, PPI or pain-specific calibration work is required and can be completed without an immediate alternative application                    | Defer to a **later MRC Proof of Concept round**                                                  |
+| A focused NHS chronic-pain feasibility or early patient-benefit study is sufficiently specified, with an eligible NHS host and credible recruitment and delivery pathway                                        | Consider **NIHR Research for Patient Benefit**                                                   |
+| Substantial PPI, co-design, pathway development and preparatory programme work are required for a future Programme Grants for Applied Research application                                                      | Consider **NIHR Programme Development Grant**, only where **PGfAR** is the intended onward route |
+| A precise cognitive-affective pain mechanism is ready for focused experimental testing in humans, but product-development readiness remains limited                                                             | Consider **MRC Experimental Medicine**                                                           |
+| Pathway bottlenecks, service integration, implementation or service redesign have become the principal research question                                                                                        | Consider **NIHR Health and Social Care Delivery Research**                                       |
+| No funding route is sufficiently mature or the minimum clinical, technical and partnership requirements have not been met                                                                                       | Continue development and target a later appropriate funding round                                |
+
 
 The status of the BPS study will inform but not determine this decision.
 
@@ -1670,14 +1730,13 @@ It would not resolve the need for:
 
 The readiness group will document:
 
-* evidence available for each requirement;
+* evidence available for each readiness requirement;
 * status of the BPS enabling study;
-* unresolved scientific, clinical, computational, technical, IP and governance risks;
-* the BPS enabling study;
 * unresolved scientific, clinical, computational, technical, IP and governance risks;
 * probability of completing a competitive application by each deadline;
 * resources required for each funding option;
-* risk of diluting the proposal through parallel applications;
+* status of the proposed single Impact Acceleration development step;
+* risk of diluting the proposal through parallel or overlapping applications;
 * reasons for proceeding, deferring or selecting another route.
 
 The decision will be agreed with:
@@ -1697,19 +1756,27 @@ The decision will be agreed with:
 3. Finalise the status and submission plan for the BPS mathematics-anxiety feasibility study.
 4. Align the BPS protocol, data fields and analysis plan with the reusable transfer-analysis framework.
 5. Identify the clinical pain partner, recruitment pathway and intended intervention-placement point.
-6. Agree the intended clinical product, including access, exclusion, escalation and practitioner oversight.
-7. Complete a joint inventory of existing evidence, data, prototypes, software, measures and code.
-8. Decide which preliminary human and computational evidence can be produced before submission.
-9. Initiate pain-specific PPI.
-10. Discuss background and foreground IP with King’s.
+6. Agree the intended clinical product, including intended use, access route, exclusions, escalation procedures and practitioner oversight.
+7. Complete a joint inventory of existing evidence, data, prototypes, software, measures, code and IP.
+8. Decide which pain-specific preliminary human evidence and computational evidence can be produced before the readiness gate.
+9. Initiate pain-specific PPI and document how it changes the intervention rationale, tasks, outcomes or delivery model.
+10. Discuss background IP, foreground IP, access rights and exploitation arrangements with King’s.
 11. Approach Dr Whitney Scott or an equivalent embedded pain clinical lead.
 12. Secure a named senior trial statistician or clinical-trial methodologist.
-13. Confirm Professor Didem Gökçay’s current affiliation, interest, availability and appropriate role.
-14. Fill remaining team gaps in software engineering, implementation research, health economics, UX and information governance.
-15. Identify the pathway documents and stakeholder input required for the focused implementation strand.
-16. Conduct the minimum viable simulation and model-recovery demonstration.
-17. Prepare the two-page concept note and request an MRC remit discussion.
-18. Hold the formal September funding-route decision.
+13. Confirm whether King’s holds an MRC Impact Acceleration Account and whether relevant internal support is available.
+14. Define the single pain-specific high-risk development step suitable for an MRC Impact Acceleration Award.
+15. Specify the proposed data source, sample, methodology and advance, revise and stop criteria for that development step.
+16. Prepare a two-page MRC Impact Acceleration concept alongside the Proof of Concept concept.
+17. Determine whether an external MRC Impact Acceleration application would be justified relative to any available institutional route.
+18. Confirm whether the NIHR Programme Development Grant route would genuinely support a future Programme Grants for Applied Research application.
+19. Obtain King’s pre-award or funder advice before preparing or submitting materially overlapping applications.
+20. Identify the pathway documents and stakeholder input required for the focused implementation strand.
+21. Conduct the minimum viable parameter-recovery, model-recovery and simulation-based power demonstration.
+22. Prepare the two-page MRC Proof of Concept concept note and request an MRC remit discussion where appropriate.
+23. Confirm Professor Didem Gökçay’s current affiliation, interest, availability and appropriate role.
+24. Fill the remaining team gaps in software engineering, implementation research, health economics, user experience, accessibility, information governance and digital-health safety.
+25. Hold the late-August route-preparation review.
+26. Hold the formal early-September submission-route decision and document the reasons for proceeding, deferring or selecting an alternative route.
 
 ---
 
@@ -1738,24 +1805,24 @@ The general application plan will define:
 * contingency funding strategy;
 * September decision gate.
 
-## Document B — Computational and AI technical appendix
+## Document B — HRP Transfer Lab Computational and AI Technical Appendix
 
-The technical appendix will define:
+The appendix will specify the enabling computational methodology for the pain-specific clinical product, including:
 
-* evidence-source and parameter-prior architecture;
-* model layers;
-* empirically constrained simulated populations;
-* simulation-based experiments;
-* model and parameter recovery;
-* power and expected-information calculations;
-* study-design optimisation;
-* AI research-agent roles;
-* BPS enabling-study calibration;
-* chronic-pain-specific model development;
-* reproducibility;
-* governance;
-* efficiency evaluation;
-* domain-adaptation rules.
+* evidence and dataset registries;
+* transportability-weighted priors;
+* modular generative models;
+* empirically constrained synthetic populations;
+* parameter and model recovery;
+* simulation-based power and study-design optimisation;
+* psychometric development;
+* pain-specific product calibration;
+* constrained AI-agent roles;
+* reproducibility and source traceability;
+* pathway-development support;
+* efficiency evaluation.
+
+The appendix does not define a second funded clinical product. It provides the technical methodology through which the pain-specific intervention will be selected, calibrated and evaluated.
 
 ## Document C — BPS enabling-study protocol and calibration package
 
@@ -1771,6 +1838,20 @@ A separate enabling-study package will contain:
 * usability and technical-testing results;
 * study-status report;
 * appropriately governed outputs available for MRC use.
+
+## Document D — MRC Impact Acceleration contingency package
+
+This package will be a deliberately narrow derivative of the Computational and AI Technical Appendix. It will define:
+
+* the single high-risk pain-specific development gap;
+* the existing data and technical basis;
+* the precise prototype or measurement model to be validated;
+* the planned data source, quantity and quality;
+* the single development objective;
+* measurable advance, revise and stop criteria;
+* why the proposed work is beyond institutional IAA scope, where applicable;
+* the route from successful completion to MRC Proof of Concept;
+* activities explicitly excluded to maintain single-step scope.
 
 ## Concept note
 
