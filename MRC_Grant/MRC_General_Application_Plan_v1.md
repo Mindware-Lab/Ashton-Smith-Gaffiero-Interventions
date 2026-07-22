@@ -736,7 +736,7 @@ A separate technical appendix will describe the computational architecture, assu
 
 ### Key output
 
-> A functioning, versioned digital intervention prototype ready for mechanism-mapping and proof-of-concept research.
+> A functioning, versioned digital intervention prototype ready for pain-specific mechanism mapping, product calibration and proof-of-concept research.
 
 ## WP4 — Pain-specific mechanism mapping, product calibration and prospective candidate selection
 
@@ -897,7 +897,7 @@ These lessons will concern the general transfer-analysis and digital-delivery me
 * the observed effect is not explained solely by trained-task practice;
 * the pattern of results is more consistent with the proposed mechanism than with prespecified alternatives;
 * preliminary functional outcomes are in the predicted direction;
-* the intervention is feasible, acceptable and sufficiently adhered to;
+* the intervention is feasible and acceptable, with sufficient adherence;
 * delayed assessment supports continued development;
 * prospective computational predictions correspond sufficiently with observed human outcomes, or failures of prediction produce an interpretable revision to the model;
 * the proposed clinical, pathway-integration, commercial and regulatory routes remain viable.
@@ -943,7 +943,7 @@ The mathematics-anxiety enabling study may contribute methodological learning, t
 | Costed stage                                       | Principal activity                                                                                                                                               | Costing purpose                                                                                                      |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Stage A — Development readiness**                | Clinical specification, pathway placement, PPI, computational architecture, prototype development, model recovery and enabling-study calibration where available | Establish the minimum viable development platform and determine whether pain-specific human calibration is justified |
-| **Stage B — Human calibration and candidate lock** | Chronic-pain mechanism-mapping study, model fitting, prior updating, prototype refinement and prospective candidate selection                                    | Determine whether the proposed mechanisms are measurable, clinically relevant and suitable for intervention testing  |
+| **Stage B — Pain-specific mechanism mapping, product calibration and candidate lock** | Pain-specific mechanism-mapping and product-calibration study, model fitting, prior updating, prototype refinement and prospective candidate selection                                    | Determine whether the proposed mechanisms are measurable, clinically relevant and suitable for intervention testing  |
 | **Stage C — Early proof of concept**               | Active-controlled comparison, protected transfer, delayed assessment, functional outcomes, implementation planning and commercial development                    | Determine whether the intervention should advance, be revised or be retired                                          |
 
 Detailed monetary estimates should be developed jointly with King’s pre-award and finance teams, the clinical service, the quantitative lead and the technical-development team.
@@ -1400,7 +1400,7 @@ The timetable supports parallel preparation of the MRC Proof of Concept applicat
 
 ### Main Proof of Concept preparation
 
-* produce a two-page Proof of Concept concept note;
+* produce a two-page Proof of Concept note;
 * request an MRC remit discussion where appropriate;
 * define the target product profile;
 * develop the provisional pathway-placement model;
@@ -1594,7 +1594,7 @@ The award would determine whether the selected module:
 * supports adequate parameter and model recovery;
 * engages the prespecified target sufficiently to justify a later Proof of Concept programme.
 
-The Impact Acceleration award would not attempt to fund:
+The Impact Acceleration Award would not attempt to fund:
 
 * the complete multi-component intervention;
 * the full HRP Transfer Lab architecture;
@@ -1765,13 +1765,13 @@ The decision will be agreed with:
 13. Confirm whether King’s holds an MRC Impact Acceleration Account and whether relevant internal support is available.
 14. Define the single pain-specific high-risk development step suitable for an MRC Impact Acceleration Award.
 15. Specify the proposed data source, sample, methodology and advance, revise and stop criteria for that development step.
-16. Prepare a two-page MRC Impact Acceleration concept alongside the Proof of Concept concept.
+16. Prepare a two-page MRC Impact Acceleration concept alongside the Proof of Concept note.
 17. Determine whether an external MRC Impact Acceleration application would be justified relative to any available institutional route.
 18. Confirm whether the NIHR Programme Development Grant route would genuinely support a future Programme Grants for Applied Research application.
 19. Obtain King’s pre-award or funder advice before preparing or submitting materially overlapping applications.
 20. Identify the pathway documents and stakeholder input required for the focused implementation strand.
 21. Conduct the minimum viable parameter-recovery, model-recovery and simulation-based power demonstration.
-22. Prepare the two-page MRC Proof of Concept concept note and request an MRC remit discussion where appropriate.
+22. Prepare the two-page MRC Proof of Concept note and request an MRC remit discussion where appropriate.
 23. Confirm Professor Didem Gökçay’s current affiliation, interest, availability and appropriate role.
 24. Fill the remaining team gaps in software engineering, implementation research, health economics, user experience, accessibility, information governance and digital-health safety.
 25. Hold the late-August route-preparation review.
