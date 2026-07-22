@@ -32,13 +32,14 @@ Synthetic data will not be added to human observations to inflate sample size, r
 
 ## 2. Relationship to the clinical programme
 
-The computational system supports three linked development products.
+The computational system supports one primary clinical product and two enabling development functions.
 
-| Product | Function | Validation source |
-|---|---|---|
-| **Pain intervention prototype** | Modifies specified cognitive-affective processes and tests whether change transfers to independent functioning | Prospective human studies |
-| **Mechanism-sensitive measurement system** | Measures attention, appraisal, uncertainty, decision policy, transfer and functional outcomes | Human psychometric and experimental validation |
-| **Focused pathway-placement model** | Defines intended users, entry points, clinical boundaries, implementation requirements and adoption risks | Clinical, service, stakeholder and lived-experience evidence |
+| Role                                                      | Function                                                                                                       | Validation source                                            |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Primary clinical product: pain intervention prototype** | Modifies specified cognitive-affective processes and tests whether change transfers to independent functioning | Prospective human studies                                    |
+| **Enabling measurement function**                         | Measures attention, appraisal, uncertainty, decision policy, transfer and functional outcomes                  | Human psychometric and experimental validation               |
+| **Supporting pathway-placement function**                 | Defines intended users, entry points, clinical boundaries, implementation requirements and adoption risks      | Clinical, service, stakeholder and lived-experience evidence |
+
 
 The computational platform is therefore an enabling technology, not the clinical product by itself.
 
@@ -98,42 +99,43 @@ The project will not attempt to provide:
 
 ### 3.3 Generalisable architecture and domain-adaptation boundary
 
-Although the initial product and validation programme focus exclusively on chronic primary pain, the HRP Transfer Lab is designed as a **generalisable intervention-development architecture**, not as a single-condition software tool.
+Although the initial product and validation programme focus exclusively on chronic primary pain, the HRP Transfer Lab is designed as a **generalisable intervention-development architecture**, rather than as a single-condition software tool.
 
-Its core value lies in the fact that the same computational and translational infrastructure can be reused across clinical and health-related domains in which maladaptive cognitive-affective processes influence behaviour, functioning or treatment engagement. The reusable components include:
+The reusable value lies in the computational and translational infrastructure used to develop, calibrate and evaluate mechanism-led interventions. Reusable components include:
 
 * evidence and dataset registries;
-* source traceability systems and transportability-weighted prior systems;
-* modular cognitive and psychometric model layers;
+* source-traceability and transportability-weighted prior systems;
+* modular cognitive, computational and psychometric models;
 * synthetic-participant and synthetic-experiment engines;
 * parameter-recovery and model-recovery tools;
 * simulation-based power and study-design optimisation;
-* psychometric item, task and short-form development workflows;
-* protected and delayed transfer testing;
+* psychometric task and measure-development workflows;
+* protected and delayed transfer-testing methods;
 * pathway-placement and implementation-intelligence methods;
 * reproducibility, governance and claims-control systems.
 
-The chronic-primary-pain programme therefore serves as the **first full clinical instantiation and validation case** for a broader development model.
+The chronic-primary-pain programme will provide the **first full clinical instantiation and validation case** for this broader development architecture.
 
-The generalisable element is not a fixed set of pain tasks or pain-specific parameters. It is the underlying translational workflow:
+The generalisable element is not a fixed set of pain tasks, intervention components, measures or parameters. It is the underlying translational workflow:
 
 ```text
 define the functional health problem
-→ identify the candidate cognitive-affective bottleneck
-→ formalise competing mechanisms
+→ specify the intended clinical product and use case
+→ identify the candidate cognitive-affective mechanism chain
+→ formalise prespecified competing mechanisms
 → develop mechanism-sensitive tasks and measures
 → constrain models using relevant evidence and priors
 → simulate heterogeneous populations and intervention scenarios
-→ test identifiability, power and transfer designs
-→ conduct focused human calibration
-→ compare candidates prospectively
-→ evaluate functional outcomes and pathway fit
+→ test identifiability, recovery, power and transfer designs
+→ conduct pain-specific mechanism mapping and product calibration
+→ select intervention candidates prospectively
+→ evaluate mechanism change, transfer, functioning and pathway fit
 → advance, revise or retire
 ```
 
-This workflow is intended to remain structurally stable across applications, while the clinical content, measures, parameters, interventions and pathway models are adapted to the target domain.
+This workflow is intended to remain structurally stable across applications. The clinical content, mechanism models, measures, parameters, intervention components and pathway specifications must nevertheless be adapted and validated separately for each target domain.
 
-A more abstract mechanism scaffold is:
+A general cognitive-affective mechanism scaffold is:
 
 ```text
 domain-relevant cue, demand or ambiguity
@@ -142,17 +144,15 @@ domain-relevant cue, demand or ambiguity
 → uncertainty monitoring and confidence regulation
 → action selection, persistence or avoidance
 → environmental feedback and model updating
-→ retention and reconstruction in a changed context
+→ reconstruction in a changed context and after delay
 → functional outcome
 ```
 
-This structure is relevant to a broad class of problems in which functioning depends on how a person selects information, interprets uncertainty, predicts outcomes, commits to action and updates from experience.
-
-For chronic primary pain, the scaffold is instantiated through:
+For chronic primary pain, this scaffold is instantiated as:
 
 ```text
 pain-related sensation or situational ambiguity
-→ threat-sensitive attention
+→ threat-sensitive attention and evidence selection
 → threat and safety appraisal
 → uncertainty about activity and consequences
 → activity, avoidance or self-management decision
@@ -161,82 +161,66 @@ pain-related sensation or situational ambiguity
 → reuse in daily functioning
 ```
 
-Future applications could instantiate the same architecture differently. Examples might include:
-
-* threat appraisal, uncertainty and safety behaviour in anxiety;
-* attentional instability, context switching and action control in ADHD;
-* cue salience, reward valuation and inhibitory control in addiction;
-* negative interpretation, effort valuation and withdrawal in depression;
-* fatigue prediction, pacing and activity decisions in long-term health conditions;
-* cognitive control and performance under pressure in educational or occupational settings.
-
-These examples represent future applications of the architecture, not claims that the chronic-pain intervention or its parameters will transfer directly to those domains.
-
 The platform is therefore **domain-adaptive rather than domain-agnostic**. Generalisability applies to the development architecture, not automatically to the clinical evidence.
 
-A task, parameter, prior distribution, psychometric measure, intervention component or pathway model validated in chronic primary pain cannot be transferred directly to another indication without a separately justified adaptation and validation process.
+A task, parameter, prior distribution, psychometric measure, intervention component or pathway model validated in chronic primary pain cannot be transferred directly to another indication without a separately justified adaptation and validation process. No pain-specific parameter or clinical conclusion will be reused silently in another domain.
 
-Each new domain instantiation would require the following.
+Each new domain instantiation would require:
 
 1. **Clinical and functional problem definition**
+   Independent specification of the target population, health need, intended use, pathway position and meaningful functional outcomes.
 
-   The target population, health need, intended use and meaningful functional outcome must be specified independently.
-
-2. **Mechanism mapping**
-
-   A theoretically and empirically justified account must identify the candidate cognitive-affective processes linking the health problem to behaviour or functioning.
+2. **Prespecified mechanism mapping**
+   A theoretically and empirically justified account of the candidate cognitive-affective processes linking the target problem to behaviour, functioning or treatment engagement.
 
 3. **Task and measurement adaptation**
-
-   Tasks and psychometric measures must be selected or constructed to identify the proposed mechanisms. New measures would require construct specification, content-validity review, cognitive interviewing, human calibration, reliability assessment, fairness testing and independent validation.
+   Selection or development of mechanism-sensitive tasks and measures, followed by content-validity review, cognitive interviewing, calibration, reliability assessment, fairness testing and independent validation where appropriate.
 
 4. **Domain-specific evidence and priors**
-
-   Relevant datasets must be registered and assessed for construct, task, population and delivery match. Cross-domain borrowing would require an explicit bridging model, uncertainty discounting and sensitivity analysis. No pain-specific prior or parameter would be reused silently.
+   Registration and assessment of relevant datasets for construct, task, population and delivery match. Cross-domain borrowing would require an explicit bridging model, uncertainty discounting and sensitivity analysis.
 
 5. **Computational design validation**
-
-   The adapted tasks, models and study designs must undergo fresh parameter recovery, model recovery, simulation-based calibration, power analysis and synthetic stress-testing.
+   Fresh parameter recovery, model recovery, simulation-based calibration, power analysis and synthetic stress-testing of the adapted models and study designs.
 
 6. **Intervention re-specification**
-
-   Candidate intervention components must be linked to the newly defined mechanism rather than inherited from the pain demonstrator by default.
+   Selection of intervention components linked to the newly defined mechanism chain rather than inherited automatically from the pain demonstrator.
 
 7. **Transfer-framework adaptation**
-
-   The relevant forms of near, horizontal, compositional, cross-task, delayed and functional transfer must be defined for the new intervention and outcome context.
+   Independent definition of the relevant near, horizontal, compositional, cross-task, delayed and functional transfer outcomes.
 
 8. **Pathway re-instantiation**
-
-   Intended users, access routes, clinical boundaries, practitioner roles, safeguarding procedures, escalation requirements and implementation constraints must be mapped within the relevant healthcare system and jurisdiction.
+   Mapping of intended users, access routes, clinical boundaries, practitioner roles, safeguarding, escalation and implementation requirements within the relevant healthcare or service context.
 
 9. **Prospective human calibration and validation**
-
-   Human evidence remains necessary to calibrate the model, validate the measures, test intervention effects, assess safety and determine whether change transfers to meaningful functioning.
+   Human evidence to calibrate the models, validate the measures, test intervention effects, assess safety and determine whether change transfers to meaningful functioning.
 
 This architecture creates two distinct forms of value.
 
-### Immediate translational value
+#### Immediate translational value
 
-The project will produce a mechanism-led digital intervention, measurement system and implementation model for chronic primary pain.
+The project will produce:
 
-### Platform value
+* a mechanism-led digital intervention for chronic primary pain;
+* a pain-specific measurement system;
+* a prospectively selected intervention configuration and comparator set;
+* a focused pathway-placement and implementation model;
+* an evidence-based advance, revise or retire decision.
 
-The project will also establish a reusable, versioned and auditable method for developing future cognitive-affective interventions and psychometric tools more efficiently across other indications.
+#### Platform value
 
-The initial MRC project will not test multiple clinical indications. Its reusable outputs will instead include:
+The project will also establish:
 
 * a documented domain-adaptation framework;
-* modular technical infrastructure;
-* reusable registry schemas;
-* general model and simulation components;
-* a validated intervention-development workflow;
-* a transferable psychometric-development process;
-* and explicit rules governing cross-domain evidence borrowing and claims.
+* modular computational and technical infrastructure;
+* reusable evidence, prior and model-registry schemas;
+* general simulation and recovery components;
+* a versioned intervention-development workflow;
+* reusable psychometric-development methods;
+* explicit rules governing cross-domain evidence borrowing, adaptation and claims.
 
-Any later indication would constitute a separate clinical-development and validation programme.
+The initial MRC project will not test multiple clinical indications. Any future application would constitute a separate mechanism-mapping, product-development and validation programme.
 
-The domain-adaptation framework therefore strengthens the platform’s scientific, translational and commercial potential while preserving the integrity of the single-indication MRC application. It allows the project to demonstrate that the computational investment is reusable, without implying that clinical efficacy, psychometric validity or pathway fit can be transferred between populations without new evidence.
+The domain-adaptation framework therefore strengthens the scientific, translational and commercial value of the computational investment while preserving the integrity of the single-indication application. It demonstrates that the development architecture may be reusable without implying that clinical efficacy, psychometric validity, parameter estimates or pathway fit can be transferred between populations without new evidence.
 
 ---
 
@@ -287,7 +271,7 @@ parameter recovery
 + power and precision
 + information value
         ↓
-HUMAN MECHANISM-MAPPING STUDY
+PAIN-SPECIFIC MECHANISM-MAPPING & PRODUCT-CALIBRATION
 calibration of distributions, task relations,
 reliability, acceptability and clinical relevance
         ↓
@@ -1119,7 +1103,7 @@ AI agents will have constrained, reviewable roles.
 
 ## 17. Human calibration and prospective validation
 
-### 17.1 Initial mechanism-mapping study
+### 17.1 Initial pain-specific mechanism-mapping and candidate-selection study
 
 The first human study will primarily calibrate the platform. It may include:
 
@@ -1137,7 +1121,7 @@ Its purposes are to estimate:
 - baseline parameter distributions;
 - task correlations;
 - measurement reliability;
-- participant heterogeneity;
+- prespecified variation in mechanism parameters and candidate response profiles;
 - relationship to pain functioning;
 - device and timing quality;
 - plausible intervention targets.
@@ -1210,27 +1194,50 @@ The project will evaluate efficiency rather than assume a fixed multiplier.
 
 ### 19.1 Reference workflow
 
-A predefined conventional reference workflow will be specified, for example:
+The HRP Transfer Lab will be evaluated against a predefined conventional intervention-development workflow.
+
+The conventional reference workflow will be specified prospectively and may be represented as:
 
 ```text
 manual evidence review
-→ narrative candidate selection
-→ fixed task design
-→ conventional pilot
-→ post-hoc transfer assessment
+→ narrative mechanism and candidate selection
+→ fixed task and protocol design
+→ conventional pilot study
+→ post-hoc assessment of mechanism and transfer
 ```
 
 The computational workflow is:
 
 ```text
-structured evidence registry
-→ explicit priors
-→ competing models
-→ synthetic recovery and power
-→ informative human calibration
-→ prospective candidate comparison
-→ protected transfer
+structured evidence and dataset registry
+→ explicit transportability-weighted priors
+→ prespecified competing mechanism models
+→ synthetic parameter recovery, model recovery and power analysis
+→ informative pain-specific mechanism mapping and product calibration
+→ prospective candidate selection and locked comparison
+→ protected and delayed transfer assessment
 ```
+
+Before the efficiency evaluation begins, the team will specify how each indicator will be compared. Depending on the metric, this may involve:
+
+* a parallel development comparison;
+* a prospectively documented benchmark process;
+* structured expert review; or
+* an appropriately matched historical development case.
+
+The comparison method, assumptions and limitations will be prespecified before outcome evaluation.
+
+The reference workflow is intended to provide a credible benchmark rather than a deliberately weak comparator. Both workflows will be evaluated against the same product-development endpoint and, where possible, the same standards for:
+
+* protocol readiness;
+* mechanism identifiability;
+* measurement quality;
+* participant burden;
+* prediction accuracy;
+* transfer sensitivity;
+* reproducibility;
+* cost and time to an advance, revise or retire decision.
+
 
 ### 19.2 Metrics
 
@@ -1397,20 +1404,21 @@ Deliverables:
 - D3: model and task simulator version 1;
 - D4: recovery and calibration report;
 - D5: pathway-placement evidence map;
-- D6: human mechanism-mapping protocol.
+- D6: pain-specific product-calibration and candidate-selection protocol.
 
-### Phase B — Human mechanism mapping and measurement calibration
+### Phase B — Pain-specific mechanism mapping, measurement calibration and candidate selection
 
 **Indicative period:** Months 6–15
 
 Activities:
 
-- mechanism-mapping study;
-- usability and data-quality analysis;
-- psychometric task/item calibration;
-- model updating;
-- initial pathway and patient-journey validation;
-- candidate intervention and comparator lock.
+* conduct the prespecified pain-specific mechanism-mapping and product-calibration study;
+* complete usability, acceptability and data-quality analysis;
+* calibrate the mechanism-sensitive psychometric tasks and measures;
+* update and compare the prespecified computational models;
+* test parameter recovery, model recovery and out-of-sample predictions;
+* conduct initial pathway and patient-journey validation;
+* prospectively lock the intervention configuration, mechanistic comparator and active control.
 
 Deliverables:
 
@@ -1467,16 +1475,18 @@ Deliverables:
 
 To prevent over-engineering, the minimum viable technical scope should include:
 
-1. one clinical demonstrator: chronic primary pain;
-2. one focused target product and pathway position;
-3. matched local or published task data plus a limited number of external sources;
-4. a modular model with three or four central mechanism families;
-5. synthetic parameter/model recovery and power analysis;
-6. one human mechanism-mapping study;
-7. one small prospective candidate comparison with active control;
-8. a compact mechanism-sensitive measurement battery;
-9. a focused pathway and implementation map;
-10. a reproducible evidence and claims registry.
+1. prone imary clinical product for chronic primary pain;
+2. one defined intended-use and pathway position;
+3. one primary cognitive-affective mechanism chain;
+4. a small number of prespecified rival models;
+5. one compact mechanism-sensitive measurement battery;
+6. synthetic parameter recovery, model recovery and power analysis;
+7. one pain-specific product-calibration study;
+8. one prospectively selected intervention configuration;
+9. one mechanistic comparator and one active control;
+10. protected and delayed transfer outcomes;
+11. one explicit advance, revise or retire decision;
+12. the minimum reusable computational infrastructure required to support these activities.
 
 Possible later extensions include:
 
