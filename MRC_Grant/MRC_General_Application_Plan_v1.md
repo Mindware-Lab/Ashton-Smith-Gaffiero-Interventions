@@ -9,9 +9,7 @@
 
 The project will establish proof of concept for a computationally guided, mechanism-led digital cognitive-affective intervention for chronic primary pain. The intervention will be developed using the HRP Transfer Lab, an enabling computational research environment designed to reduce uncertainty and improve efficiency during intervention selection, optimisation and early evaluation.
 
-The project has one primary clinical product:
-
-1. a pain-specific digital cognitive-affective intervention for chronic primary pain.
+The project has one primary clinical product: a pain-specific digital cognitive-affective intervention for chronic primary pain.
 
 The **HRP Transfer Lab** will serve as the enabling computational development technology used to select, optimise and evaluate the intervention components. A focused service-pathway and implementation-intelligence strand will support clinical placement, implementation planning and the route to patient benefit.
 
