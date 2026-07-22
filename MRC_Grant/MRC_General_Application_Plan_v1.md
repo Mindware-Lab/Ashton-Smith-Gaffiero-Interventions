@@ -404,7 +404,6 @@ The principal uncertainties are whether:
 The proposed award will bridge the gap between mechanism plausibility and a clinically credible digital product. It will determine whether the target cognitive-affective processes can be measured and modified, whether change survives protected transfer tests and delay, and whether the computational development engine improves intervention selection sufficiently to justify larger clinical and implementation studies.
 
 ---
-Below is the revised continuation, with the BPS enabling study incorporated where it materially strengthens the plan and the section numbering corrected. 
 
 # 4. Central development proposition
 
@@ -635,7 +634,7 @@ Outputs will include:
 The project will not attempt:
 
 * geospatial inequality mapping across all pain provision;
-* automated resource or treatment identificatin;
+* automated resource or treatment identification;
 * automated clinical triage.
 
 Those capabilities belong to a wider Intervention-Intelligence Platform model and may be pursued in later applied or health-services research. The present purpose is to place one intervention credibly and safely within one chronic-primary-pain pathway.
@@ -964,100 +963,104 @@ A formal readiness review will determine whether the evidence package supports s
 
 ---
 
-11. Proposed team structure
-Project lead
+# 11. Proposed team structure
 
-Dr Daniel Gaffiero, King’s College London, subject to institutional confirmation.
+## Project lead
 
-Responsibilities
-health-psychology and cognitive-affective mechanism leadership;
-chronic-pain intervention development;
-academic and institutional coordination;
-human-study oversight;
-contribution to pathway and implementation work;
-research governance, publication and knowledge mobilisation.
+**Dr Daniel Gaffiero, King’s College London**, subject to institutional confirmation.
+
+### Responsibilities
+
+* health-psychology and cognitive-affective mechanism leadership;
+* chronic-pain intervention development;
+* academic and institutional coordination;
+* human-study oversight;
+* contribution to pathway and implementation work;
+* research governance, publication and knowledge mobilisation.
 
 Dr Gaffiero’s joint development of the proposed BPS mathematics-anxiety feasibility study provides an initial example of translating a cognitive-affective hypothesis into an instrumented digital intervention and transfer-sensitive research design.
 
-Computational and intervention co-lead
+---
 
-Dr Mark Ashton Smith, with the formal role determined by institutional eligibility and the collaboration agreement.
+## Computational and intervention co-lead
 
-Possible roles include:
+**Dr Mark Ashton Smith**, with the formal role determined by institutional eligibility and the collaboration agreement.
 
-project co-lead through an eligible academic appointment;
-named specialist within the core team;
-or project-partner contribution through the relevant commercial entity.
-Responsibilities
-transfer-protocol methodology;
-cognitive-task and intervention design;
-computational architecture;
-simulated experiments and model recovery;
-adaptive-controller development;
-digital-prototype design;
-behavioural instrumentation;
-evidence, claims and IP governance.
+### Possible roles
+
+* project co-lead through an eligible academic appointment;
+* named specialist within the core team; or
+* project-partner contribution through the relevant commercial entity.
+
+### Responsibilities
+
+* transfer-protocol methodology;
+* cognitive-task and intervention design;
+* computational architecture;
+* simulated experiments and model recovery;
+* adaptive-controller development;
+* digital-prototype design;
+* behavioural instrumentation;
+* evidence, claims and IP governance.
 
 The proposed BPS study also provides an early test of the applicants’ ability to collaborate on task adaptation, digital delivery, repeated behavioural measurement, directional-transfer analysis and progression towards a larger translational programme.
 
-Additional expertise required
+---
+
+## Additional expertise required
 
 The core team will also require:
 
-an embedded pain clinician or clinical pain psychologist;
-a senior medical statistician or clinical-trial methodologist;
-computational modelling and psychometric expertise;
-software and research engineering;
-qualitative and PPI expertise;
-implementation or health-services research;
-health economics;
-information governance and digital-health safety;
-user-experience and accessibility expertise;
-lived-experience contributors.
+* an embedded pain clinician or clinical pain psychologist;
+* a senior medical statistician or clinical-trial methodologist;
+* computational modelling and psychometric expertise;
+* software and research engineering;
+* qualitative and PPI expertise;
+* implementation or health-services research;
+* health economics;
+* information governance and digital-health safety;
+* user-experience and accessibility expertise;
+* lived-experience contributors.
 
 Lived-experience contributors will be included in roles consistent with UKRI guidance and institutional arrangements.
 
-Priority team strengthening before submission
-Priority addition	Proposed contribution	Strategic value
-Dr Whitney Scott, or an equivalent embedded INPUT clinical lead	Clinical pain co-lead or specialist; target-population definition; pathway placement; recruitment feasibility; clinical safety; intervention co-design; PPI; NHS implementation	Provides direct chronic-pain expertise, an established service pathway and a credible route to recruitment, clinical governance and future adoption
-Named senior medical statistician from King’s or an equivalent trials unit	Calibration and proof-of-concept design; hierarchical and longitudinal modelling; model validation; active-control comparison; missing-data strategy; estimands; progression criteria	Integrates the computational modelling with defensible human inference and reassures reviewers that progression decisions are statistically governed
-Professor Didem Gökçay or another relevant international specialist	Affective-task design; cognitive neuroscience; HCI; human–AI interaction; multimodal validation; independent review of the computational architecture	Adds complementary expertise in affective computing, adaptive interfaces and future multimodal validation
+---
+
+## Priority team strengthening before submission
+
+| Priority addition                                                              | Proposed contribution                                                                                                                                                                 | Strategic value                                                                                                                                      |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Dr Whitney Scott, or an equivalent embedded INPUT clinical lead**            | Clinical pain co-lead or specialist; target-population definition; pathway placement; recruitment feasibility; clinical safety; intervention co-design; PPI; NHS implementation       | Provides direct chronic-pain expertise, an established service pathway and a credible route to recruitment, clinical governance and future adoption  |
+| **Named senior medical statistician from King’s or an equivalent trials unit** | Calibration and proof-of-concept design; hierarchical and longitudinal modelling; model validation; active-control comparison; missing-data strategy; estimands; progression criteria | Integrates the computational modelling with defensible human inference and reassures reviewers that progression decisions are statistically governed |
+| **Professor Didem Gökçay or another relevant international specialist**        | Affective-task design; cognitive neuroscience; HCI; human–AI interaction; multimodal validation; independent review of the computational architecture                                 | Adds complementary expertise in affective computing, adaptive interfaces and future multimodal validation                                            |
 
 Professor Toby Prevost, or another expert in early-phase and complex-intervention trial design, could provide an alternative or complementary quantitative role.
 
 The international affective-computing contribution should complement rather than replace:
 
-the embedded NHS pain clinician;
-the senior clinical statistician;
-the implementation and health-economic expertise.
+* the embedded NHS pain clinician;
+* the senior clinical statistician;
+* the implementation and health-economic expertise.
 
 The precise role should be confirmed after establishing:
 
-institutional affiliation and eligibility;
-availability and permitted external roles;
-whether the contribution would be advisory, consultancy-based or institutionally supported;
-ownership, publication and IP implications;
-whether multimodal or physiological validation falls within the initial scope.
-Core team functions
-Dr Daniel Gaffiero
-= health psychology, pain-related cognitive-affective mechanisms
-  and intervention-development leadership
+* institutional affiliation and eligibility;
+* availability and permitted external roles;
+* whether the contribution would be advisory, consultancy-based or institutionally supported;
+* ownership, publication and IP implications;
+* whether multimodal or physiological validation falls within the initial scope.
 
-Dr Mark Ashton Smith
-= transfer engineering, computational architecture,
-  simulation and digital protocol development
+---
 
-Embedded NHS pain lead
-= clinical practice, pathway placement, recruitment,
-  safety and implementation
+## Core team functions
 
-Senior trial statistician
-= human-study design, statistical inference,
-  model validation and progression decisions
-
-Affective-computing/HCI specialist
-= emotional-task design, human–AI interaction
-  and technology validation
+| Team member or function                | Primary contribution                                                                                   |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Dr Daniel Gaffiero**                 | Health psychology, pain-related cognitive-affective mechanisms and intervention-development leadership |
+| **Dr Mark Ashton Smith**               | Transfer engineering, computational architecture, simulation and digital-protocol development          |
+| **Embedded NHS pain lead**             | Clinical practice, pathway placement, recruitment, safety and implementation                           |
+| **Senior trial statistician**          | Human-study design, statistical inference, model validation and progression decisions                  |
+| **Affective-computing/HCI specialist** | Emotional-task design, human–AI interaction and technology validation                                  |
 
 A health economist and implementation scientist should also be included as named specialists. If the service-pathway strand expands beyond focused pathway placement, the implementation or health-services researcher should become a core team member with protected project time.
 
@@ -1479,7 +1482,7 @@ The readiness group will document:
 * evidence available for each requirement;
 * status of the BPS enabling study;
 * unresolved scientific, clinical, computational, technical, IP and governance risks;
-  the BPS enabling study;
+* the BPS enabling study;
 * unresolved scientific, clinical, computational, technical, IP and governance risks;
 * probability of completing a competitive application by each deadline;
 * resources required for each funding option;
@@ -1616,7 +1619,7 @@ Key official sources include:
 * INPUT Pain Management Unit and relevant Guy’s and St Thomas’ materials;
 * King’s Mental Health and Neuroscience Clinical Trial Statistics Group.
 
-The BPS Small Research Grant conditions, eligibility, timetable and data-goshould also be verified before the enabling study is described as funded or operational.  
+The BPS Small Research Grant conditions, eligibility, timetable and data-governance requirements should also be verified before the enabling study is described as funded or operational.  
 ---
 ## Links
 
