@@ -1,6 +1,6 @@
 # Cognitive Support Labs
 
-## Building a joint applied-cognition company from a health-psychology beachhead
+## Building a joint applied-cognition company
 
 **Prepared for Dr Daniel Gaffiero**  
 **Strategic discussion paper — July 2026**
@@ -9,7 +9,7 @@
 
 # 1. The opportunity
 
-Cognitive Support Labs should not be conceived simply as a company that produces one or two digital health apps.
+Cognitive Support Labs (name?) should not be conceived simply as a company that produces one or two digital health apps.
 
 The stronger opportunity is to build a **research-led intervention and service-intelligence company** that can repeatedly:
 
@@ -33,49 +33,7 @@ The strategic principle is:
 
 ---
 
-# 2. Why the current business needs to pivot
-
-Mark has developed substantial intellectual property, software, cognitive protocols, apps and public-facing content through HRP Lab Ltd and IQ Mindware.
-
-However, the current direct-to-consumer model has not developed into a viable business. Consumer sales can still provide some income and useful feedback, but they should no longer be treated as the main growth strategy.
-
-The problem is not simply that the underlying ideas lack value. The current route to market is weak:
-
-- intense competition for consumer attention;
-- expensive and unreliable app acquisition;
-- dependence on continual launches and content production;
-- low customer lifetime value;
-- limited external validation;
-- difficulty converting scientific sophistication into a simple consumer purchase.
-
-The pivot should therefore be:
-
-```text
-FROM
-
-consumer apps as the main business
-supported by blogging and social media
-
-TO
-
-an institutional research-to-intervention company
-supported by partnerships, studies, commissioned work,
-custom product development and licensing
-```
-
-Selected IQ Mindware products may continue on a small scale, but primarily as a source of:
-
-- limited cash flow;
-- product feedback;
-- reusable software;
-- prototype testing;
-- direct contact with users.
-
-They should not determine the architecture of the future company.
-
----
-
-# 3. The company thesis
+# 2. The company thesis
 
 Cognitive Support Labs would help institutions understand and improve psychological and functional support.
 
@@ -100,13 +58,13 @@ The company should therefore begin with the problem and the institutional pathwa
 
 ---
 
-# 4. The shared six-capability platform
+# 3. The shared six-capability platform
 
 The joint company would implement the full HRP Lab Enterprise Capability Model.
 
 The capabilities form one connected sequence.
 
-## 4.1 Understand the system
+## 3.1 Understand the system
 
 ### Service-pathway, system and risk intelligence
 
@@ -125,7 +83,7 @@ Typical outputs would include pathway maps, provision indices, user-journey anal
 
 This capability can itself produce commissioned revenue before an app is built.
 
-## 4.2 Choose the right opportunity
+## 3.2 Choose the right opportunity
 
 ### Intervention discovery and prioritisation
 
@@ -144,7 +102,7 @@ Candidate interventions should be assessed against factors such as:
 
 The result should be an explicit decision to develop, partner, defer or reject an intervention.
 
-## 4.3 Engineer the intervention
+## 3.3 Engineer the intervention
 
 ### Transfer-protocol engineering
 
@@ -169,7 +127,7 @@ It is:
 
 > **Does the relevant change survive new examples, changed contexts, independent tasks, meaningful functioning and delay?**
 
-## 4.4 Measure change defensibly
+## 3.4 Measure change defensibly
 
 ### Measurement and psychometric engineering
 
@@ -199,7 +157,7 @@ The company could develop or adapt:
 
 Measurement should be designed alongside the intervention rather than added at the end.
 
-## 4.5 Deliver and integrate the solution
+## 3.5 Deliver and integrate the solution
 
 ### Digital experience, integration, access and adoption
 
@@ -219,7 +177,7 @@ The company would therefore design the full delivery system, including:
 
 The product is not only the app. It is the app plus the surrounding pathway.
 
-## 4.6 Validate, publish and mobilise the knowledge
+## 3.6 Validate, publish and mobilise the knowledge
 
 ### Research, validation, publication and knowledge mobilisation
 
@@ -239,7 +197,7 @@ Possible outputs include:
 
 Publication would strengthen the science, institutional credibility and commercial value of the platform.
 
-## 4.7 Governance across all six
+## 3.7 Governance across all six
 
 Governance, ethics, assurance and IP stewardship would run across the entire system.
 
@@ -259,7 +217,7 @@ This includes:
 
 ---
 
-# 5. Why Mark and Dan are complementary
+# 4. Why Mark and Dan are complementary
 
 The value of the collaboration is not that two people can jointly market an app. It is that they can build a more complete research-to-intervention capability together.
 
@@ -310,7 +268,7 @@ Together, Mark and Dan could build:
 
 ---
 
-# 6. Preferred organisational architecture
+# 5. Preferred organisational architecture
 
 The most important architectural distinction is between:
 
@@ -318,7 +276,7 @@ The most important architectural distinction is between:
 - the new joint operating capability;
 - sector-specific applications.
 
-## 6.1 HRP Lab Ltd
+## 5.1 HRP Lab Ltd
 
 HRP Lab Ltd would remain owned and controlled by Mark.
 
@@ -332,7 +290,7 @@ Its main role would be to hold:
 
 HRP Lab Ltd would no longer need to be presented as an already mature institutional platform. It would be the **background-IP, prototyping and legacy-product company**.
 
-## 6.2 The joint operating company
+## 5.2 The joint operating company
 
 Mark and Dan would jointly build the serious institutional business.
 
@@ -352,7 +310,7 @@ The joint company would own or control:
 
 The company would operate the six-capability system rather than merely licensing finished products from HRP Lab.
 
-## 6.3 Cognitive Support Labs as the first vertical
+## 5.3 Cognitive Support Labs as the first vertical
 
 Health psychology would be the first sector application because it offers:
 
@@ -371,7 +329,7 @@ Initial demonstrators might include:
 
 The first priority should be one complete demonstrator, not three simultaneous apps.
 
-## 6.4 Later corporate expansion
+## 5.4 Later corporate expansion
 
 After the capability system has been demonstrated in health psychology, it could be applied to corporate cognition, resilience and performance.
 
@@ -392,7 +350,7 @@ The corporate branch should therefore grow from the joint platform—not from IQ
 
 ---
 
-# 7. Brand architecture
+# 6. Brand architecture
 
 A practical near-term brand structure could be:
 
@@ -444,11 +402,11 @@ There is no need to solve the final brand architecture immediately. The legal an
 
 ---
 
-# 8. Indicative legal and IP structure
+# 7. Indicative legal and IP structure
 
 This section is a strategic outline rather than legal advice. Formal arrangements would require professional legal, tax and institutional review.
 
-## 8.1 Directors and shareholders
+## 7.1 Directors and shareholders
 
 Mark and Dan could both be directors of the joint operating company.
 
@@ -475,7 +433,7 @@ A shareholders’ agreement should address:
 
 A 50/50 structure is possible, but only with a robust deadlock mechanism and clear continuing-contribution expectations.
 
-## 8.2 Background IP
+## 7.2 Background IP
 
 Pre-existing assets should be documented before joint development begins.
 
@@ -498,7 +456,7 @@ Pre-existing assets should be documented before joint development begins.
 
 Each party should confirm what they own and what they are permitted to commercialise.
 
-## 8.3 Licensing into the joint company
+## 7.3 Licensing into the joint company
 
 HRP Lab could license selected background IP to the joint company.
 
@@ -515,7 +473,7 @@ The licence should specify:
 
 For example, CSL might receive rights to use selected HRP protocols in defined health-psychology fields, while HRP retains ownership and rights in consumer or unrelated applications.
 
-## 8.4 Foreground IP
+## 7.4 Foreground IP
 
 New IP created through joint work may include:
 
@@ -541,7 +499,7 @@ However, improvements to the generic platform may require a more nuanced arrange
 
 These rules should be agreed before substantial joint development.
 
-## 8.5 University and publication issues
+## 7.5 University and publication issues
 
 Dan’s institutional role is an important advantage but introduces additional boundaries.
 
@@ -561,7 +519,7 @@ Publication should remain a central objective, subject to a reasonable review pe
 
 ---
 
-# 9. The role of IQ Mindware during the pivot
+# 8. The role of IQ Mindware during the pivot
 
 IQ Mindware should continue only in a bounded role.
 
@@ -596,7 +554,7 @@ The purpose is to harvest and learn from the existing work while shifting seriou
 
 ---
 
-# 10. The initial business model
+# 9. The initial business model
 
 The first sale does not need to be an app licence.
 
@@ -647,7 +605,7 @@ This mixed model reduces dependence on consumer sales and avoids relying exclusi
 
 ---
 
-# 11. Development strategy
+# 10. Development strategy
 
 The operating principle should be:
 
@@ -722,7 +680,7 @@ Recruit an appropriate corporate-domain lead and apply Capability 1 to an actual
 
 ---
 
-# 12. The missing commercial capability
+# 11. The missing commercial capability
 
 Mark and Dan together provide a strong scientific and product-development foundation, but the company would still have a significant gap in:
 
@@ -741,7 +699,7 @@ A corporate or occupational-psychology lead would be a separate later requiremen
 
 ---
 
-# 13. Immediate strategic decisions
+# 12. Immediate strategic decisions
 
 Mark and Dan should agree:
 
