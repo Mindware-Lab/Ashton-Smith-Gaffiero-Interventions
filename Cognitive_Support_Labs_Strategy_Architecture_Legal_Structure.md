@@ -14,7 +14,7 @@ Cognitive Support Labs should not be conceived simply as a company that produces
 The stronger opportunity is to build a **research-led intervention and service-intelligence company** that can repeatedly:
 
 ```text
-identify where support is failing
+→ identify where support is failing
 → decide which problems are worth solving
 → design and test interventions
 → build the necessary digital products and service tools
@@ -153,7 +153,7 @@ The HRP Transfer Lab would turn a selected opportunity into a formal, testable i
 The process would include:
 
 ```text
-mechanism model
+→ mechanism model
 → competing protocol designs
 → computational and synthetic-participant testing
 → prototype
@@ -176,7 +176,7 @@ It is:
 Each project would distinguish different kinds of evidence:
 
 ```text
-need
+≠ need
 ≠ engagement
 ≠ task learning
 ≠ mechanism change
@@ -300,7 +300,7 @@ Mark and HRP Lab could lead or co-lead:
 Together, Mark and Dan could build:
 
 ```text
-institutional problem intelligence
++ institutional problem intelligence
 + intervention science
 + computational protocol development
 + digital implementation
@@ -568,7 +568,7 @@ IQ Mindware should continue only in a bounded role.
 Its functions would be:
 
 ```text
-limited consumer revenue
++ limited consumer revenue
 + software and usability testing
 + direct user feedback
 + reusable components
@@ -603,7 +603,7 @@ The first sale does not need to be an app licence.
 The most realistic commercial sequence is:
 
 ```text
-commissioned pathway or provision study
+→ commissioned pathway or provision study
 → intervention-opportunity and feasibility work
 → funded protocol and measurement development
 → custom app or service tool
@@ -658,7 +658,7 @@ The company should not attempt to build a universal platform before it has a fun
 The first project should create a minimum working version of all six capabilities:
 
 ```text
-one pathway analysis
+→ one pathway analysis
 → one opportunity-selection process
 → one protocol
 → one measurement system
@@ -693,7 +693,7 @@ Before substantial platform development, secure at least one of:
 A plausible first demonstrator is exam and mathematics anxiety:
 
 ```text
-map university provision
+→ map university provision
 → identify the most valuable support gap
 → develop the intervention and measures
 → build the minimum app and service workflow
@@ -796,7 +796,7 @@ with additional domain leadership
 The first objective is to demonstrate one complete, repeatable capability:
 
 ```text
-one important institutional problem
+→ one important institutional problem
 → one defensible pathway analysis
 → one prioritised intervention opportunity
 → one scientifically grounded protocol
